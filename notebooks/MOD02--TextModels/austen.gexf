@@ -1,0 +1,1216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>04/10/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="dearest" label="dearest" />
+      <node id="frank" label="frank" />
+      <node id="looking" label="looking" />
+      <node id="many" label="many" />
+      <node id="away" label="away" />
+      <node id="however" label="however" />
+      <node id="sir" label="sir" />
+      <node id="walter" label="walter" />
+      <node id="give" label="give" />
+      <node id="perfectly" label="perfectly" />
+      <node id="feeling" label="feeling" />
+      <node id="anne" label="anne" />
+      <node id="yet" label="yet" />
+      <node id="make" label="make" />
+      <node id="thought" label="thought" />
+      <node id="going" label="going" />
+      <node id="gone" label="gone" />
+      <node id="better" label="better" />
+      <node id="sister" label="sister" />
+      <node id="others" label="others" />
+      <node id="something" label="something" />
+      <node id="quite" label="quite" />
+      <node id="two" label="two" />
+      <node id="sure" label="sure" />
+      <node id="home" label="home" />
+      <node id="rather" label="rather" />
+      <node id="word" label="word" />
+      <node id="manner" label="manner" />
+      <node id="till" label="till" />
+      <node id="attention" label="attention" />
+      <node id="room" label="room" />
+      <node id="seemed" label="seemed" />
+      <node id="state" label="state" />
+      <node id="indeed" label="indeed" />
+      <node id="young" label="young" />
+      <node id="oh" label="oh" />
+      <node id="spoke" label="spoke" />
+      <node id="kind" label="kind" />
+      <node id="long" label="long" />
+      <node id="looked" label="looked" />
+      <node id="passed" label="passed" />
+      <node id="upon" label="upon" />
+      <node id="day" label="day" />
+      <node id="course" label="course" />
+      <node id="thing" label="thing" />
+      <node id="morning" label="morning" />
+      <node id="enough" label="enough" />
+      <node id="interest" label="interest" />
+      <node id="present" label="present" />
+      <node id="always" label="always" />
+      <node id="received" label="received" />
+      <node id="whole" label="whole" />
+      <node id="made" label="made" />
+      <node id="like" label="like" />
+      <node id="felt" label="felt" />
+      <node id="near" label="near" />
+      <node id="last" label="last" />
+      <node id="another" label="another" />
+      <node id="way" label="way" />
+      <node id="cannot" label="cannot" />
+      <node id="used" label="used" />
+      <node id="hear" label="hear" />
+      <node id="beginning" label="beginning" />
+      <node id="since" label="since" />
+      <node id="began" label="began" />
+      <node id="feel" label="feel" />
+      <node id="short" label="short" />
+      <node id="talked" label="talked" />
+      <node id="found" label="found" />
+      <node id="come" label="come" />
+      <node id="back" label="back" />
+      <node id="end" label="end" />
+      <node id="sort" label="sort" />
+      <node id="ever" label="ever" />
+      <node id="feelings" label="feelings" />
+      <node id="happy" label="happy" />
+      <node id="even" label="even" />
+      <node id="hope" label="hope" />
+      <node id="almost" label="almost" />
+      <node id="among" label="among" />
+      <node id="go" label="go" />
+      <node id="brother" label="brother" />
+      <node id="wished" label="wished" />
+      <node id="done" label="done" />
+      <node id="man" label="man" />
+      <node id="pleasure" label="pleasure" />
+      <node id="spoken" label="spoken" />
+      <node id="else" label="else" />
+      <node id="leave" label="leave" />
+      <node id="half" label="half" />
+      <node id="seeing" label="seeing" />
+      <node id="suppose" label="suppose" />
+      <node id="mary" label="mary" />
+      <node id="captain" label="captain" />
+      <node id="wentworth" label="wentworth" />
+      <node id="certainly" label="certainly" />
+      <node id="three" label="three" />
+      <node id="account" label="account" />
+      <node id="moment" label="moment" />
+      <node id="best" label="best" />
+      <node id="hardly" label="hardly" />
+      <node id="left" label="left" />
+      <node id="far" label="far" />
+      <node id="high" label="high" />
+      <node id="hour" label="hour" />
+      <node id="bath" label="bath" />
+      <node id="cold" label="cold" />
+      <node id="take" label="take" />
+      <node id="living" label="living" />
+      <node id="wanted" label="wanted" />
+      <node id="spirits" label="spirits" />
+      <node id="father" label="father" />
+      <node id="known" label="known" />
+      <node id="emma" label="emma" />
+      <node id="resolved" label="resolved" />
+      <node id="seen" label="seen" />
+      <node id="mind" label="mind" />
+      <node id="assure" label="assure" />
+      <node id="deal" label="deal" />
+      <node id="family" label="family" />
+      <node id="went" label="went" />
+      <node id="us" label="us" />
+      <node id="air" label="air" />
+      <node id="opinion" label="opinion" />
+      <node id="charles" label="charles" />
+      <node id="past" label="past" />
+      <node id="character" label="character" />
+      <node id="heard" label="heard" />
+      <node id="side" label="side" />
+      <node id="knew" label="knew" />
+      <node id="dear" label="dear" />
+      <node id="still" label="still" />
+      <node id="ought" label="ought" />
+      <node id="place" label="place" />
+      <node id="musgrove" label="musgrove" />
+      <node id="either" label="either" />
+      <node id="none" label="none" />
+      <node id="returned" label="returned" />
+      <node id="perhaps" label="perhaps" />
+      <node id="heart" label="heart" />
+      <node id="wish" label="wish" />
+      <node id="subject" label="subject" />
+      <node id="fine" label="fine" />
+      <node id="person" label="person" />
+      <node id="elliot" label="elliot" />
+      <node id="behind" label="behind" />
+      <node id="reached" label="reached" />
+      <node id="yes" label="yes" />
+      <node id="given" label="given" />
+      <node id="dinner" label="dinner" />
+      <node id="serious" label="serious" />
+      <node id="life" label="life" />
+      <node id="coming" label="coming" />
+      <node id="took" label="took" />
+      <node id="people" label="people" />
+      <node id="possible" label="possible" />
+      <node id="came" label="came" />
+      <node id="visit" label="visit" />
+      <node id="understand" label="understand" />
+      <node id="degree" label="degree" />
+      <node id="large" label="large" />
+      <node id="brought" label="brought" />
+      <node id="allowed" label="allowed" />
+      <node id="believe" label="believe" />
+      <node id="decided" label="decided" />
+      <node id="head" label="head" />
+      <node id="look" label="look" />
+      <node id="company" label="company" />
+      <node id="love" label="love" />
+      <node id="get" label="get" />
+      <node id="really" label="really" />
+      <node id="four" label="four" />
+      <node id="taking" label="taking" />
+      <node id="men" label="men" />
+      <node id="reason" label="reason" />
+      <node id="use" label="use" />
+      <node id="asked" label="asked" />
+      <node id="particularly" label="particularly" />
+      <node id="advantage" label="advantage" />
+      <node id="set" label="set" />
+      <node id="met" label="met" />
+      <node id="talking" label="talking" />
+      <node id="everybody" label="everybody" />
+      <node id="mean" label="mean" />
+      <node id="afterwards" label="afterwards" />
+      <node id="turn" label="turn" />
+      <node id="bad" label="bad" />
+      <node id="bear" label="bear" />
+      <node id="full" label="full" />
+      <node id="beyond" label="beyond" />
+      <node id="smallest" label="smallest" />
+      <node id="consequence" label="consequence" />
+      <node id="eye" label="eye" />
+      <node id="round" label="round" />
+      <node id="hours" label="hours" />
+      <node id="speak" label="speak" />
+      <node id="comfort" label="comfort" />
+      <node id="least" label="least" />
+      <node id="making" label="making" />
+      <node id="days" label="days" />
+      <node id="sat" label="sat" />
+      <node id="everything" label="everything" />
+      <node id="longer" label="longer" />
+    </nodes>
+    <edges>
+      <edge id="0" source="dearest" target="frank" weight="0.9109008603316502" />
+      <edge id="1" source="looking" target="many" weight="0.8960104728781509" />
+      <edge id="2" source="looking" target="seemed" weight="0.8452569107185849" />
+      <edge id="3" source="looking" target="feeling" weight="0.8380728298064295" />
+      <edge id="4" source="looking" target="last" weight="0.823838182161709" />
+      <edge id="5" source="looking" target="yet" weight="0.8197158442889321" />
+      <edge id="6" source="looking" target="anne" weight="0.808520343894447" />
+      <edge id="7" source="looking" target="however" weight="0.8063971863216767" />
+      <edge id="8" source="looking" target="something" weight="0.795304137272449" />
+      <edge id="9" source="looking" target="passed" weight="0.7910582291566569" />
+      <edge id="10" source="looking" target="short" weight="0.7892873527597116" />
+      <edge id="11" source="looking" target="enough" weight="0.7883032447168677" />
+      <edge id="12" source="looking" target="way" weight="0.7881014648833076" />
+      <edge id="13" source="looking" target="another" weight="0.7831704905887816" />
+      <edge id="14" source="looking" target="wish" weight="0.7812239987581695" />
+      <edge id="15" source="looking" target="till" weight="0.7804957313618002" />
+      <edge id="16" source="looking" target="long" weight="0.7795834824905358" />
+      <edge id="17" source="looking" target="happy" weight="0.7793549023713829" />
+      <edge id="18" source="many" target="feeling" weight="0.8617187623633084" />
+      <edge id="19" source="many" target="seemed" weight="0.8437432495657121" />
+      <edge id="20" source="many" target="enough" weight="0.8357011526872291" />
+      <edge id="21" source="many" target="anne" weight="0.8340526461127882" />
+      <edge id="22" source="many" target="yet" weight="0.8297565495899627" />
+      <edge id="23" source="many" target="man" weight="0.8184947924093311" />
+      <edge id="24" source="many" target="short" weight="0.8181107566387109" />
+      <edge id="25" source="many" target="something" weight="0.817282794125315" />
+      <edge id="26" source="many" target="whole" weight="0.8114367850409925" />
+      <edge id="27" source="many" target="last" weight="0.807214309804461" />
+      <edge id="28" source="many" target="long" weight="0.8063382271948218" />
+      <edge id="29" source="many" target="however" weight="0.8055861668750662" />
+      <edge id="30" source="many" target="air" weight="0.8041426820539672" />
+      <edge id="31" source="many" target="received" weight="0.8032692578591966" />
+      <edge id="32" source="many" target="make" weight="0.8019499972593638" />
+      <edge id="33" source="many" target="way" weight="0.801114974088323" />
+      <edge id="34" source="many" target="certainly" weight="0.8001736040107189" />
+      <edge id="35" source="many" target="others" weight="0.8001646099092545" />
+      <edge id="36" source="many" target="quite" weight="0.7984926080007997" />
+      <edge id="37" source="many" target="till" weight="0.7969153225772658" />
+      <edge id="38" source="many" target="happy" weight="0.7930977041741729" />
+      <edge id="39" source="many" target="another" weight="0.7928491705110103" />
+      <edge id="40" source="many" target="present" weight="0.7927570001571138" />
+      <edge id="41" source="many" target="almost" weight="0.7902355706784343" />
+      <edge id="42" source="many" target="side" weight="0.7895912319810204" />
+      <edge id="43" source="many" target="talked" weight="0.789020958680609" />
+      <edge id="44" source="many" target="found" weight="0.7888757695438917" />
+      <edge id="45" source="many" target="company" weight="0.7868279162762142" />
+      <edge id="46" source="many" target="person" weight="0.7835734439133615" />
+      <edge id="47" source="many" target="young" weight="0.7819114836708885" />
+      <edge id="48" source="many" target="wish" weight="0.7784683215020348" />
+      <edge id="49" source="away" target="however" weight="0.8768492727636401" />
+      <edge id="50" source="away" target="thought" weight="0.8425475661635522" />
+      <edge id="51" source="away" target="home" weight="0.8421181082292722" />
+      <edge id="52" source="away" target="anne" weight="0.8301012675188129" />
+      <edge id="53" source="away" target="end" weight="0.8218774637324245" />
+      <edge id="54" source="away" target="seemed" weight="0.8142421745361519" />
+      <edge id="55" source="away" target="day" weight="0.8141057058259983" />
+      <edge id="56" source="away" target="better" weight="0.8139656235462205" />
+      <edge id="57" source="away" target="another" weight="0.8137628630215341" />
+      <edge id="58" source="away" target="leave" weight="0.8109062604886073" />
+      <edge id="59" source="away" target="quite" weight="0.8105054915768825" />
+      <edge id="60" source="away" target="way" weight="0.8099304042766672" />
+      <edge id="61" source="away" target="spoke" weight="0.8080807855503389" />
+      <edge id="62" source="away" target="sure" weight="0.8053542751293425" />
+      <edge id="63" source="away" target="make" weight="0.8040509717300328" />
+      <edge id="64" source="away" target="yet" weight="0.802370624028704" />
+      <edge id="65" source="away" target="manner" weight="0.8013841343388519" />
+      <edge id="66" source="away" target="going" weight="0.8006500712837936" />
+      <edge id="67" source="away" target="like" weight="0.8005162750778867" />
+      <edge id="68" source="away" target="word" weight="0.7985233267059748" />
+      <edge id="69" source="away" target="best" weight="0.7980823623603901" />
+      <edge id="70" source="away" target="gone" weight="0.7965446341220337" />
+      <edge id="71" source="away" target="talked" weight="0.7961031682928565" />
+      <edge id="72" source="away" target="others" weight="0.795189378514896" />
+      <edge id="73" source="away" target="oh" weight="0.7906074286020852" />
+      <edge id="74" source="away" target="brought" weight="0.7868845345607649" />
+      <edge id="75" source="away" target="happy" weight="0.7867900065224951" />
+      <edge id="76" source="away" target="something" weight="0.7859968088164364" />
+      <edge id="77" source="away" target="spoken" weight="0.7836393727163276" />
+      <edge id="78" source="away" target="fine" weight="0.7823827282137698" />
+      <edge id="79" source="away" target="room" weight="0.7800636879900816" />
+      <edge id="80" source="away" target="left" weight="0.7787040045091375" />
+      <edge id="81" source="however" target="anne" weight="0.8583432044775454" />
+      <edge id="82" source="however" target="yet" weight="0.8449762457572808" />
+      <edge id="83" source="however" target="thought" weight="0.8290901498145691" />
+      <edge id="84" source="however" target="better" weight="0.8258117045796862" />
+      <edge id="85" source="however" target="leave" weight="0.8156256266373657" />
+      <edge id="86" source="however" target="way" weight="0.8136915649462866" />
+      <edge id="87" source="however" target="happy" weight="0.8113100703936422" />
+      <edge id="88" source="however" target="certainly" weight="0.8108531278255231" />
+      <edge id="89" source="however" target="make" weight="0.8099922665172055" />
+      <edge id="90" source="however" target="home" weight="0.8039484883549428" />
+      <edge id="91" source="however" target="still" weight="0.8019665169713539" />
+      <edge id="92" source="however" target="place" weight="0.8012210568848617" />
+      <edge id="93" source="however" target="seemed" weight="0.8005654248915037" />
+      <edge id="94" source="however" target="long" weight="0.7999427558186516" />
+      <edge id="95" source="however" target="something" weight="0.7967604049851352" />
+      <edge id="96" source="however" target="almost" weight="0.7942164384678678" />
+      <edge id="97" source="however" target="another" weight="0.790979515189477" />
+      <edge id="98" source="however" target="till" weight="0.789325331097607" />
+      <edge id="99" source="however" target="quite" weight="0.7890605238385674" />
+      <edge id="100" source="however" target="manner" weight="0.7869935701876991" />
+      <edge id="101" source="however" target="others" weight="0.7867395864645497" />
+      <edge id="102" source="however" target="love" weight="0.7866355974012822" />
+      <edge id="103" source="however" target="word" weight="0.7862955221315054" />
+      <edge id="104" source="however" target="feel" weight="0.7846514268084859" />
+      <edge id="105" source="however" target="gone" weight="0.781941287560597" />
+      <edge id="106" source="however" target="person" weight="0.7801413974318989" />
+      <edge id="107" source="however" target="side" weight="0.7795055376674969" />
+      <edge id="108" source="sir" target="walter" weight="0.8685415526087705" />
+      <edge id="109" source="give" target="perfectly" weight="0.8649874692274253" />
+      <edge id="110" source="give" target="rather" weight="0.8353534999490306" />
+      <edge id="111" source="give" target="seeing" weight="0.8145642242509891" />
+      <edge id="112" source="give" target="anne" weight="0.8143229025094207" />
+      <edge id="113" source="give" target="indeed" weight="0.8121890396408054" />
+      <edge id="114" source="give" target="short" weight="0.8092426250066042" />
+      <edge id="115" source="give" target="whole" weight="0.8089130795823406" />
+      <edge id="116" source="give" target="quite" weight="0.8051313433373355" />
+      <edge id="117" source="give" target="enough" weight="0.8050109767115043" />
+      <edge id="118" source="give" target="else" weight="0.8028605993666664" />
+      <edge id="119" source="give" target="word" weight="0.8019235031493928" />
+      <edge id="120" source="give" target="spirits" weight="0.8013619472786524" />
+      <edge id="121" source="give" target="cannot" weight="0.7989289725359565" />
+      <edge id="122" source="give" target="long" weight="0.7965999352504337" />
+      <edge id="123" source="give" target="felt" weight="0.7957638920477761" />
+      <edge id="124" source="give" target="sister" weight="0.7930315327438127" />
+      <edge id="125" source="give" target="always" weight="0.7919897226662977" />
+      <edge id="126" source="give" target="day" weight="0.791412750565966" />
+      <edge id="127" source="give" target="others" weight="0.7903584965690889" />
+      <edge id="128" source="give" target="gone" weight="0.7897703539190584" />
+      <edge id="129" source="give" target="come" weight="0.7877349972441281" />
+      <edge id="130" source="give" target="make" weight="0.7865178888433854" />
+      <edge id="131" source="give" target="found" weight="0.7846111717723792" />
+      <edge id="132" source="give" target="sure" weight="0.7843845225002135" />
+      <edge id="133" source="give" target="upon" weight="0.7843836930247977" />
+      <edge id="134" source="give" target="two" weight="0.783717935379922" />
+      <edge id="135" source="give" target="perhaps" weight="0.7828359700323433" />
+      <edge id="136" source="give" target="oh" weight="0.7818629315010004" />
+      <edge id="137" source="give" target="better" weight="0.7813247276018958" />
+      <edge id="138" source="give" target="believe" weight="0.7804477297051102" />
+      <edge id="139" source="perfectly" target="indeed" weight="0.8438200880007832" />
+      <edge id="140" source="perfectly" target="make" weight="0.8351966801792979" />
+      <edge id="141" source="perfectly" target="quite" weight="0.8205152155261919" />
+      <edge id="142" source="perfectly" target="rather" weight="0.8146479529403885" />
+      <edge id="143" source="perfectly" target="ever" weight="0.8135166543961878" />
+      <edge id="144" source="perfectly" target="cannot" weight="0.8089397631323825" />
+      <edge id="145" source="perfectly" target="sister" weight="0.8057305201855731" />
+      <edge id="146" source="perfectly" target="come" weight="0.805477359766634" />
+      <edge id="147" source="perfectly" target="knew" weight="0.8013120335498749" />
+      <edge id="148" source="perfectly" target="two" weight="0.8004675140780828" />
+      <edge id="149" source="perfectly" target="word" weight="0.7998684859125862" />
+      <edge id="150" source="perfectly" target="hardly" weight="0.7987707479040245" />
+      <edge id="151" source="perfectly" target="thought" weight="0.7984828306714294" />
+      <edge id="152" source="perfectly" target="perhaps" weight="0.7978128319027772" />
+      <edge id="153" source="perfectly" target="feelings" weight="0.7917272536281181" />
+      <edge id="154" source="perfectly" target="felt" weight="0.7887490205358357" />
+      <edge id="155" source="perfectly" target="home" weight="0.783612173508004" />
+      <edge id="156" source="perfectly" target="suppose" weight="0.7832797748675975" />
+      <edge id="157" source="perfectly" target="anne" weight="0.7824667419034219" />
+      <edge id="158" source="perfectly" target="manner" weight="0.7823299015131677" />
+      <edge id="159" source="perfectly" target="always" weight="0.7818372639881738" />
+      <edge id="160" source="perfectly" target="comfort" weight="0.7795831647945355" />
+      <edge id="161" source="feeling" target="something" weight="0.8301971757881207" />
+      <edge id="162" source="feeling" target="yet" weight="0.8193202886247197" />
+      <edge id="163" source="feeling" target="last" weight="0.8181425409250285" />
+      <edge id="164" source="feeling" target="till" weight="0.8178791118560449" />
+      <edge id="165" source="feeling" target="enough" weight="0.8046325593487738" />
+      <edge id="166" source="feeling" target="almost" weight="0.7999781785629254" />
+      <edge id="167" source="feeling" target="anne" weight="0.7981969340994564" />
+      <edge id="168" source="feeling" target="wish" weight="0.7954325419563677" />
+      <edge id="169" source="feeling" target="others" weight="0.795275379298289" />
+      <edge id="170" source="feeling" target="moment" weight="0.7902176714685402" />
+      <edge id="171" source="feeling" target="character" weight="0.7891095523029127" />
+      <edge id="172" source="feeling" target="happy" weight="0.7886066989901848" />
+      <edge id="173" source="feeling" target="air" weight="0.7823949400741785" />
+      <edge id="174" source="feeling" target="long" weight="0.7804394311903123" />
+      <edge id="175" source="anne" target="yet" weight="0.8599531366947314" />
+      <edge id="176" source="anne" target="better" weight="0.854110835481005" />
+      <edge id="177" source="anne" target="others" weight="0.8438303657171294" />
+      <edge id="178" source="anne" target="make" weight="0.8393531504808409" />
+      <edge id="179" source="anne" target="kind" weight="0.8385939349221592" />
+      <edge id="180" source="anne" target="long" weight="0.8372636036025132" />
+      <edge id="181" source="anne" target="something" weight="0.8366309432380649" />
+      <edge id="182" source="anne" target="seemed" weight="0.8277601106632431" />
+      <edge id="183" source="anne" target="thought" weight="0.8273697140713303" />
+      <edge id="184" source="anne" target="till" weight="0.8217152762052788" />
+      <edge id="185" source="anne" target="happy" weight="0.8198444543893926" />
+      <edge id="186" source="anne" target="manner" weight="0.8193156823569339" />
+      <edge id="187" source="anne" target="quite" weight="0.8186620609354576" />
+      <edge id="188" source="anne" target="whole" weight="0.8166701265203864" />
+      <edge id="189" source="anne" target="rather" weight="0.8150063350913461" />
+      <edge id="190" source="anne" target="sister" weight="0.8120745117202863" />
+      <edge id="191" source="anne" target="almost" weight="0.8120202791316435" />
+      <edge id="192" source="anne" target="account" weight="0.8112290624778921" />
+      <edge id="193" source="anne" target="morning" weight="0.8091086896437796" />
+      <edge id="194" source="anne" target="word" weight="0.8079419060251878" />
+      <edge id="195" source="anne" target="talked" weight="0.8074804283373823" />
+      <edge id="196" source="anne" target="last" weight="0.8067467159648303" />
+      <edge id="197" source="anne" target="seen" weight="0.8062876155012931" />
+      <edge id="198" source="anne" target="way" weight="0.8062237163495014" />
+      <edge id="199" source="anne" target="sure" weight="0.805971243710933" />
+      <edge id="200" source="anne" target="gone" weight="0.8055019802289891" />
+      <edge id="201" source="anne" target="always" weight="0.8039471439999196" />
+      <edge id="202" source="anne" target="enough" weight="0.8028620171926384" />
+      <edge id="203" source="anne" target="felt" weight="0.8007927636594728" />
+      <edge id="204" source="anne" target="another" weight="0.7972509030268888" />
+      <edge id="205" source="anne" target="going" weight="0.7971751470431093" />
+      <edge id="206" source="anne" target="leave" weight="0.7969638665662276" />
+      <edge id="207" source="anne" target="received" weight="0.7957383262988843" />
+      <edge id="208" source="anne" target="state" weight="0.7956626145238695" />
+      <edge id="209" source="anne" target="spoke" weight="0.795406013746445" />
+      <edge id="210" source="anne" target="short" weight="0.7933337172920994" />
+      <edge id="211" source="anne" target="present" weight="0.7921653661153829" />
+      <edge id="212" source="anne" target="home" weight="0.7906730589470496" />
+      <edge id="213" source="anne" target="far" weight="0.7900936372977276" />
+      <edge id="214" source="anne" target="place" weight="0.7885008602798557" />
+      <edge id="215" source="anne" target="oh" weight="0.7878085562102517" />
+      <edge id="216" source="anne" target="found" weight="0.7872602118421802" />
+      <edge id="217" source="anne" target="made" weight="0.7869520590919197" />
+      <edge id="218" source="anne" target="like" weight="0.7867779439577843" />
+      <edge id="219" source="anne" target="spirits" weight="0.7865988142455314" />
+      <edge id="220" source="anne" target="back" weight="0.7864606946308094" />
+      <edge id="221" source="anne" target="really" weight="0.7861555154673825" />
+      <edge id="222" source="anne" target="two" weight="0.7858296704584713" />
+      <edge id="223" source="anne" target="still" weight="0.7856525455216756" />
+      <edge id="224" source="anne" target="suppose" weight="0.7833926796867763" />
+      <edge id="225" source="anne" target="man" weight="0.7824482992163617" />
+      <edge id="226" source="anne" target="person" weight="0.7815483073167568" />
+      <edge id="227" source="anne" target="feel" weight="0.7815295165632833" />
+      <edge id="228" source="anne" target="day" weight="0.7809055981876352" />
+      <edge id="229" source="anne" target="three" weight="0.7807861519989737" />
+      <edge id="230" source="anne" target="room" weight="0.7793371870429909" />
+      <edge id="231" source="yet" target="manner" weight="0.8489613584807267" />
+      <edge id="232" source="yet" target="better" weight="0.8448826342396547" />
+      <edge id="233" source="yet" target="long" weight="0.8267015390761743" />
+      <edge id="234" source="yet" target="enough" weight="0.8222468076523473" />
+      <edge id="235" source="yet" target="another" weight="0.8178893141526917" />
+      <edge id="236" source="yet" target="way" weight="0.8172555551431261" />
+      <edge id="237" source="yet" target="happy" weight="0.8133438816439978" />
+      <edge id="238" source="yet" target="till" weight="0.812911499240811" />
+      <edge id="239" source="yet" target="make" weight="0.8084191252475023" />
+      <edge id="240" source="yet" target="seemed" weight="0.8066886855158641" />
+      <edge id="241" source="yet" target="last" weight="0.8058637035264087" />
+      <edge id="242" source="yet" target="sister" weight="0.804226873668982" />
+      <edge id="243" source="yet" target="going" weight="0.8021712965794912" />
+      <edge id="244" source="yet" target="almost" weight="0.7977153926409255" />
+      <edge id="245" source="yet" target="short" weight="0.7976882699124072" />
+      <edge id="246" source="yet" target="spoke" weight="0.7965085602268918" />
+      <edge id="247" source="yet" target="something" weight="0.7963711187144278" />
+      <edge id="248" source="yet" target="morning" weight="0.7954887930056931" />
+      <edge id="249" source="yet" target="yes" weight="0.7931949776034133" />
+      <edge id="250" source="yet" target="sort" weight="0.7930586662248648" />
+      <edge id="251" source="yet" target="others" weight="0.792217026386175" />
+      <edge id="252" source="yet" target="back" weight="0.7890068731904762" />
+      <edge id="253" source="yet" target="moment" weight="0.7875669783145829" />
+      <edge id="254" source="yet" target="pleasure" weight="0.7847237421680732" />
+      <edge id="255" source="yet" target="thought" weight="0.7846589820395711" />
+      <edge id="256" source="yet" target="kind" weight="0.7816793481442907" />
+      <edge id="257" source="make" target="thought" weight="0.8565533382212558" />
+      <edge id="258" source="make" target="quite" weight="0.847342295139233" />
+      <edge id="259" source="make" target="young" weight="0.8425219610289323" />
+      <edge id="260" source="make" target="two" weight="0.8420768900802247" />
+      <edge id="261" source="make" target="better" weight="0.8364162428913486" />
+      <edge id="262" source="make" target="always" weight="0.8340234710537607" />
+      <edge id="263" source="make" target="word" weight="0.8291955768891465" />
+      <edge id="264" source="make" target="sister" weight="0.8254291845189285" />
+      <edge id="265" source="make" target="indeed" weight="0.825194582020598" />
+      <edge id="266" source="make" target="manner" weight="0.8226597262273341" />
+      <edge id="267" source="make" target="ever" weight="0.820751966585606" />
+      <edge id="268" source="make" target="rather" weight="0.8180084160154258" />
+      <edge id="269" source="make" target="home" weight="0.8148094869445746" />
+      <edge id="270" source="make" target="suppose" weight="0.8143067813482671" />
+      <edge id="271" source="make" target="thing" weight="0.8123147377487349" />
+      <edge id="272" source="make" target="way" weight="0.8099960216378879" />
+      <edge id="273" source="make" target="take" weight="0.8086744543547104" />
+      <edge id="274" source="make" target="sure" weight="0.8056862139659955" />
+      <edge id="275" source="make" target="felt" weight="0.8046394446543642" />
+      <edge id="276" source="make" target="knew" weight="0.8020234115914281" />
+      <edge id="277" source="make" target="mind" weight="0.8018725477710635" />
+      <edge id="278" source="make" target="something" weight="0.8017195439323108" />
+      <edge id="279" source="make" target="enough" weight="0.8015623294229948" />
+      <edge id="280" source="make" target="made" weight="0.8012469622332844" />
+      <edge id="281" source="make" target="went" weight="0.8010812982018694" />
+      <edge id="282" source="make" target="even" weight="0.8003893951255691" />
+      <edge id="283" source="make" target="till" weight="0.7990671933448983" />
+      <edge id="284" source="make" target="hardly" weight="0.7965806222359879" />
+      <edge id="285" source="make" target="since" weight="0.7954698541399461" />
+      <edge id="286" source="make" target="talked" weight="0.7951025909686631" />
+      <edge id="287" source="make" target="oh" weight="0.7927076318232666" />
+      <edge id="288" source="make" target="gone" weight="0.791216706700264" />
+      <edge id="289" source="make" target="back" weight="0.7909965436881312" />
+      <edge id="290" source="make" target="course" weight="0.7909766230117239" />
+      <edge id="291" source="make" target="another" weight="0.7906436381626075" />
+      <edge id="292" source="make" target="whole" weight="0.7898605855637771" />
+      <edge id="293" source="make" target="kind" weight="0.7892186685405309" />
+      <edge id="294" source="make" target="almost" weight="0.7891304854540341" />
+      <edge id="295" source="make" target="leave" weight="0.7889463094575533" />
+      <edge id="296" source="make" target="others" weight="0.7886597657350105" />
+      <edge id="297" source="make" target="side" weight="0.7876776664642491" />
+      <edge id="298" source="make" target="certainly" weight="0.787494357237026" />
+      <edge id="299" source="make" target="long" weight="0.787453720290459" />
+      <edge id="300" source="make" target="among" weight="0.7865478754087492" />
+      <edge id="301" source="make" target="seemed" weight="0.7850656559505877" />
+      <edge id="302" source="make" target="perhaps" weight="0.7831593498177365" />
+      <edge id="303" source="make" target="going" weight="0.7830857066174228" />
+      <edge id="304" source="make" target="cannot" weight="0.7830615245116916" />
+      <edge id="305" source="make" target="seeing" weight="0.7810665354974384" />
+      <edge id="306" source="make" target="either" weight="0.7809526392458819" />
+      <edge id="307" source="make" target="feelings" weight="0.7807471248173952" />
+      <edge id="308" source="make" target="come" weight="0.7806053769783876" />
+      <edge id="309" source="make" target="left" weight="0.7793435555177842" />
+      <edge id="310" source="thought" target="home" weight="0.850939178827659" />
+      <edge id="311" source="thought" target="quite" weight="0.8411149545203075" />
+      <edge id="312" source="thought" target="better" weight="0.8300106579213369" />
+      <edge id="313" source="thought" target="word" weight="0.8275617841329692" />
+      <edge id="314" source="thought" target="manner" weight="0.8237609518537781" />
+      <edge id="315" source="thought" target="ever" weight="0.8178182928335482" />
+      <edge id="316" source="thought" target="another" weight="0.8145260126164755" />
+      <edge id="317" source="thought" target="best" weight="0.8105524659170142" />
+      <edge id="318" source="thought" target="rather" weight="0.8090918091724125" />
+      <edge id="319" source="thought" target="end" weight="0.8085765533135713" />
+      <edge id="320" source="thought" target="sure" weight="0.8084608638098411" />
+      <edge id="321" source="thought" target="felt" weight="0.8065190678856231" />
+      <edge id="322" source="thought" target="going" weight="0.8050459492348234" />
+      <edge id="323" source="thought" target="left" weight="0.8048377982007456" />
+      <edge id="324" source="thought" target="two" weight="0.803507273208614" />
+      <edge id="325" source="thought" target="others" weight="0.8032955570409359" />
+      <edge id="326" source="thought" target="way" weight="0.8031167799777057" />
+      <edge id="327" source="thought" target="made" weight="0.802669199785873" />
+      <edge id="328" source="thought" target="gone" weight="0.8013263308895698" />
+      <edge id="329" source="thought" target="always" weight="0.8011451409715411" />
+      <edge id="330" source="thought" target="sister" weight="0.800741741160442" />
+      <edge id="331" source="thought" target="take" weight="0.7986624920819434" />
+      <edge id="332" source="thought" target="either" weight="0.7953269387546207" />
+      <edge id="333" source="thought" target="perhaps" weight="0.7919976997384983" />
+      <edge id="334" source="thought" target="among" weight="0.7891356427736622" />
+      <edge id="335" source="thought" target="thing" weight="0.7884498158496538" />
+      <edge id="336" source="thought" target="young" weight="0.7879326117614536" />
+      <edge id="337" source="thought" target="seemed" weight="0.7864803292609376" />
+      <edge id="338" source="thought" target="knew" weight="0.7862931118690912" />
+      <edge id="339" source="thought" target="us" weight="0.7860214197353879" />
+      <edge id="340" source="thought" target="suppose" weight="0.7857050953528035" />
+      <edge id="341" source="thought" target="mind" weight="0.7855485302313836" />
+      <edge id="342" source="thought" target="indeed" weight="0.7843220222997482" />
+      <edge id="343" source="thought" target="something" weight="0.783523888638339" />
+      <edge id="344" source="thought" target="kind" weight="0.7827147096887715" />
+      <edge id="345" source="thought" target="feelings" weight="0.7822177917626383" />
+      <edge id="346" source="thought" target="went" weight="0.78176071831375" />
+      <edge id="347" source="thought" target="almost" weight="0.7791377243310054" />
+      <edge id="348" source="thought" target="oh" weight="0.7784631975034498" />
+      <edge id="349" source="going" target="gone" weight="0.8565331638933188" />
+      <edge id="350" source="going" target="better" weight="0.8504793149310682" />
+      <edge id="351" source="going" target="long" weight="0.8341814127759222" />
+      <edge id="352" source="going" target="till" weight="0.8258799220558768" />
+      <edge id="353" source="going" target="day" weight="0.815712993512179" />
+      <edge id="354" source="going" target="seeing" weight="0.807082954619705" />
+      <edge id="355" source="going" target="like" weight="0.8066283580959189" />
+      <edge id="356" source="going" target="quite" weight="0.8020774859162805" />
+      <edge id="357" source="going" target="morning" weight="0.8000513883153797" />
+      <edge id="358" source="going" target="seemed" weight="0.799960225059989" />
+      <edge id="359" source="going" target="back" weight="0.7993861470016357" />
+      <edge id="360" source="going" target="sure" weight="0.7991391842196575" />
+      <edge id="361" source="going" target="pleasure" weight="0.7962262704281362" />
+      <edge id="362" source="going" target="returned" weight="0.7956462608062278" />
+      <edge id="363" source="going" target="others" weight="0.7926452371008397" />
+      <edge id="364" source="going" target="found" weight="0.79154998982315" />
+      <edge id="365" source="going" target="us" weight="0.7897658420646481" />
+      <edge id="366" source="going" target="best" weight="0.7882837060116121" />
+      <edge id="367" source="going" target="another" weight="0.7860253104875652" />
+      <edge id="368" source="going" target="either" weight="0.7854984802957237" />
+      <edge id="369" source="going" target="felt" weight="0.7851627726110959" />
+      <edge id="370" source="going" target="brought" weight="0.7821562781836184" />
+      <edge id="371" source="going" target="home" weight="0.7821398849816028" />
+      <edge id="372" source="going" target="way" weight="0.7819653314673702" />
+      <edge id="373" source="going" target="made" weight="0.7817022087569454" />
+      <edge id="374" source="going" target="oh" weight="0.7802747826351566" />
+      <edge id="375" source="going" target="word" weight="0.7800008849291977" />
+      <edge id="376" source="going" target="days" weight="0.7789724229031043" />
+      <edge id="377" source="gone" target="day" weight="0.8365153243966578" />
+      <edge id="378" source="gone" target="long" weight="0.8290541642399396" />
+      <edge id="379" source="gone" target="home" weight="0.82250454154181" />
+      <edge id="380" source="gone" target="felt" weight="0.8103950905591873" />
+      <edge id="381" source="gone" target="better" weight="0.8005339623739032" />
+      <edge id="382" source="gone" target="go" weight="0.7926166603152596" />
+      <edge id="383" source="gone" target="returned" weight="0.7919037859301625" />
+      <edge id="384" source="gone" target="rather" weight="0.7918712998732692" />
+      <edge id="385" source="gone" target="sure" weight="0.7910862168377393" />
+      <edge id="386" source="gone" target="till" weight="0.7908865747047397" />
+      <edge id="387" source="gone" target="feelings" weight="0.7881725320888584" />
+      <edge id="388" source="gone" target="seemed" weight="0.787663807155179" />
+      <edge id="389" source="gone" target="word" weight="0.7865691568484781" />
+      <edge id="390" source="gone" target="quite" weight="0.7864784111471137" />
+      <edge id="391" source="gone" target="brought" weight="0.7863937014098814" />
+      <edge id="392" source="gone" target="morning" weight="0.7861007718554647" />
+      <edge id="393" source="gone" target="people" weight="0.7842559773329166" />
+      <edge id="394" source="gone" target="left" weight="0.7824546311798665" />
+      <edge id="395" source="gone" target="back" weight="0.781701101929476" />
+      <edge id="396" source="gone" target="room" weight="0.7800817340731656" />
+      <edge id="397" source="better" target="sister" weight="0.8565080003870453" />
+      <edge id="398" source="better" target="long" weight="0.8381465882950652" />
+      <edge id="399" source="better" target="morning" weight="0.8360035872404868" />
+      <edge id="400" source="better" target="made" weight="0.8313554766030689" />
+      <edge id="401" source="better" target="day" weight="0.8175373265419441" />
+      <edge id="402" source="better" target="seemed" weight="0.8171639882347952" />
+      <edge id="403" source="better" target="two" weight="0.8157911517330813" />
+      <edge id="404" source="better" target="quite" weight="0.8149082228376104" />
+      <edge id="405" source="better" target="three" weight="0.8126566199678862" />
+      <edge id="406" source="better" target="end" weight="0.8108016010032169" />
+      <edge id="407" source="better" target="whole" weight="0.8072882702573998" />
+      <edge id="408" source="better" target="rather" weight="0.8070172902535689" />
+      <edge id="409" source="better" target="way" weight="0.8044745866575438" />
+      <edge id="410" source="better" target="manner" weight="0.8043579838966921" />
+      <edge id="411" source="better" target="always" weight="0.8033180157251565" />
+      <edge id="412" source="better" target="sure" weight="0.8025585123181714" />
+      <edge id="413" source="better" target="oh" weight="0.8022413862370974" />
+      <edge id="414" source="better" target="word" weight="0.7989528958977345" />
+      <edge id="415" source="better" target="young" weight="0.7981946169862228" />
+      <edge id="416" source="better" target="home" weight="0.7978016491919756" />
+      <edge id="417" source="better" target="others" weight="0.7968369497295948" />
+      <edge id="418" source="better" target="back" weight="0.7962253207535173" />
+      <edge id="419" source="better" target="till" weight="0.7956339524100565" />
+      <edge id="420" source="better" target="almost" weight="0.7942884049062428" />
+      <edge id="421" source="better" target="best" weight="0.7938743726989947" />
+      <edge id="422" source="better" target="enough" weight="0.7896432859467911" />
+      <edge id="423" source="better" target="account" weight="0.7895399493876746" />
+      <edge id="424" source="better" target="side" weight="0.7878136828255187" />
+      <edge id="425" source="better" target="upon" weight="0.7868569434370611" />
+      <edge id="426" source="better" target="happy" weight="0.784337049273344" />
+      <edge id="427" source="better" target="take" weight="0.7811076460494183" />
+      <edge id="428" source="better" target="left" weight="0.7802272448673768" />
+      <edge id="429" source="better" target="heard" weight="0.7802119256502733" />
+      <edge id="430" source="sister" target="two" weight="0.8348567936104769" />
+      <edge id="431" source="sister" target="made" weight="0.8323098801103181" />
+      <edge id="432" source="sister" target="manner" weight="0.8199851871430576" />
+      <edge id="433" source="sister" target="hardly" weight="0.8105119289455047" />
+      <edge id="434" source="sister" target="quite" weight="0.8095252936296717" />
+      <edge id="435" source="sister" target="end" weight="0.8050723246333701" />
+      <edge id="436" source="sister" target="take" weight="0.8049777545403148" />
+      <edge id="437" source="sister" target="back" weight="0.802595601899597" />
+      <edge id="438" source="sister" target="young" weight="0.8012657943297347" />
+      <edge id="439" source="sister" target="sure" weight="0.8002444295074826" />
+      <edge id="440" source="sister" target="oh" weight="0.8000092828953993" />
+      <edge id="441" source="sister" target="seemed" weight="0.7984386934320771" />
+      <edge id="442" source="sister" target="seen" weight="0.7957308491657569" />
+      <edge id="443" source="sister" target="others" weight="0.794289416841211" />
+      <edge id="444" source="sister" target="always" weight="0.7940856466963333" />
+      <edge id="445" source="sister" target="spoke" weight="0.7939682497726881" />
+      <edge id="446" source="sister" target="rather" weight="0.792377955140058" />
+      <edge id="447" source="sister" target="morning" weight="0.7900636235550327" />
+      <edge id="448" source="sister" target="way" weight="0.7886446149786319" />
+      <edge id="449" source="sister" target="state" weight="0.7871169973217415" />
+      <edge id="450" source="sister" target="word" weight="0.7869328843805659" />
+      <edge id="451" source="sister" target="long" weight="0.783862526677971" />
+      <edge id="452" source="sister" target="indeed" weight="0.7836537513123785" />
+      <edge id="453" source="sister" target="found" weight="0.7822866885867181" />
+      <edge id="454" source="sister" target="far" weight="0.7820022853679884" />
+      <edge id="455" source="sister" target="best" weight="0.7798214698522499" />
+      <edge id="456" source="sister" target="making" weight="0.7790464363994604" />
+      <edge id="457" source="sister" target="come" weight="0.7784260382680422" />
+      <edge id="458" source="others" target="something" weight="0.8548063733892349" />
+      <edge id="459" source="others" target="indeed" weight="0.8110965571583407" />
+      <edge id="460" source="others" target="last" weight="0.8084026285267281" />
+      <edge id="461" source="others" target="talked" weight="0.8024550129378206" />
+      <edge id="462" source="others" target="ought" weight="0.8019420117313885" />
+      <edge id="463" source="others" target="heard" weight="0.7928465038940162" />
+      <edge id="464" source="others" target="till" weight="0.7917862274196545" />
+      <edge id="465" source="others" target="felt" weight="0.7914691283471804" />
+      <edge id="466" source="others" target="whole" weight="0.790888609751488" />
+      <edge id="467" source="others" target="quite" weight="0.7895734470942615" />
+      <edge id="468" source="others" target="morning" weight="0.7894217715184648" />
+      <edge id="469" source="others" target="present" weight="0.7890655122687211" />
+      <edge id="470" source="others" target="heart" weight="0.7889466154276336" />
+      <edge id="471" source="others" target="seemed" weight="0.7876533581732407" />
+      <edge id="472" source="others" target="enough" weight="0.7851848385315426" />
+      <edge id="473" source="others" target="perhaps" weight="0.7836612422473852" />
+      <edge id="474" source="others" target="sure" weight="0.7817589218044995" />
+      <edge id="475" source="others" target="man" weight="0.7808350152991883" />
+      <edge id="476" source="others" target="interest" weight="0.780647647961087" />
+      <edge id="477" source="others" target="thing" weight="0.7796961531313414" />
+      <edge id="478" source="others" target="state" weight="0.7792133923907281" />
+      <edge id="479" source="others" target="kind" weight="0.7791270625033617" />
+      <edge id="480" source="others" target="room" weight="0.7790250884588055" />
+      <edge id="481" source="others" target="like" weight="0.779020179063546" />
+      <edge id="482" source="others" target="character" weight="0.7783996887799796" />
+      <edge id="483" source="something" target="till" weight="0.848363371903248" />
+      <edge id="484" source="something" target="last" weight="0.8300764292472024" />
+      <edge id="485" source="something" target="way" weight="0.8208693666003117" />
+      <edge id="486" source="something" target="another" weight="0.814556115840507" />
+      <edge id="487" source="something" target="enough" weight="0.8062671643668868" />
+      <edge id="488" source="something" target="heart" weight="0.7974427345645341" />
+      <edge id="489" source="something" target="felt" weight="0.7946722572923357" />
+      <edge id="490" source="something" target="man" weight="0.7899292461767979" />
+      <edge id="491" source="something" target="yes" weight="0.788021079674917" />
+      <edge id="492" source="something" target="even" weight="0.7846826434138332" />
+      <edge id="493" source="something" target="indeed" weight="0.7842787199442595" />
+      <edge id="494" source="something" target="hope" weight="0.7837377032315301" />
+      <edge id="495" source="something" target="leave" weight="0.7832297942896965" />
+      <edge id="496" source="quite" target="two" weight="0.8540542272581875" />
+      <edge id="497" source="quite" target="sure" weight="0.8527286374411239" />
+      <edge id="498" source="quite" target="state" weight="0.8440078768251531" />
+      <edge id="499" source="quite" target="oh" weight="0.8421541156432617" />
+      <edge id="500" source="quite" target="like" weight="0.8335700189482904" />
+      <edge id="501" source="quite" target="rather" weight="0.8329420412782711" />
+      <edge id="502" source="quite" target="whole" weight="0.8249694822091331" />
+      <edge id="503" source="quite" target="made" weight="0.8247482842865723" />
+      <edge id="504" source="quite" target="home" weight="0.8237840216221131" />
+      <edge id="505" source="quite" target="come" weight="0.8227144139474026" />
+      <edge id="506" source="quite" target="day" weight="0.8214177960610993" />
+      <edge id="507" source="quite" target="seemed" weight="0.8124127268995469" />
+      <edge id="508" source="quite" target="cannot" weight="0.8074972214540522" />
+      <edge id="509" source="quite" target="take" weight="0.8045687680403797" />
+      <edge id="510" source="quite" target="word" weight="0.8042801690692979" />
+      <edge id="511" source="quite" target="always" weight="0.8034160542253597" />
+      <edge id="512" source="quite" target="since" weight="0.8027005541550416" />
+      <edge id="513" source="quite" target="indeed" weight="0.7995664459398117" />
+      <edge id="514" source="quite" target="living" weight="0.7988334281921365" />
+      <edge id="515" source="quite" target="way" weight="0.7982475313153583" />
+      <edge id="516" source="quite" target="talked" weight="0.7980479948857131" />
+      <edge id="517" source="quite" target="leave" weight="0.7967217370017463" />
+      <edge id="518" source="quite" target="upon" weight="0.7944466297932442" />
+      <edge id="519" source="quite" target="young" weight="0.7931423755459193" />
+      <edge id="520" source="quite" target="spoke" weight="0.7916640666700436" />
+      <edge id="521" source="quite" target="found" weight="0.791246766737653" />
+      <edge id="522" source="quite" target="left" weight="0.7905396275212395" />
+      <edge id="523" source="quite" target="us" weight="0.7900114594609953" />
+      <edge id="524" source="quite" target="knew" weight="0.788883848402979" />
+      <edge id="525" source="quite" target="ever" weight="0.7863312576221593" />
+      <edge id="526" source="quite" target="hear" weight="0.7853593771257386" />
+      <edge id="527" source="quite" target="back" weight="0.7838314479409526" />
+      <edge id="528" source="quite" target="either" weight="0.7811185906451339" />
+      <edge id="529" source="quite" target="best" weight="0.779712977933952" />
+      <edge id="530" source="two" target="made" weight="0.8336717594658289" />
+      <edge id="531" source="two" target="rather" weight="0.8284646853868365" />
+      <edge id="532" source="two" target="found" weight="0.8239209962832976" />
+      <edge id="533" source="two" target="done" weight="0.8186514844777526" />
+      <edge id="534" source="two" target="way" weight="0.8145947914474566" />
+      <edge id="535" source="two" target="young" weight="0.811026144217105" />
+      <edge id="536" source="two" target="take" weight="0.8028387498785328" />
+      <edge id="537" source="two" target="back" weight="0.7977214704025701" />
+      <edge id="538" source="two" target="felt" weight="0.7951795670033794" />
+      <edge id="539" source="two" target="leave" weight="0.791575491953058" />
+      <edge id="540" source="two" target="like" weight="0.7908496398624327" />
+      <edge id="541" source="two" target="oh" weight="0.7906592351890511" />
+      <edge id="542" source="two" target="come" weight="0.7891358617985915" />
+      <edge id="543" source="two" target="indeed" weight="0.7864695923814569" />
+      <edge id="544" source="two" target="either" weight="0.7860257248411611" />
+      <edge id="545" source="two" target="whole" weight="0.7853094888582309" />
+      <edge id="546" source="two" target="word" weight="0.7835216597890737" />
+      <edge id="547" source="two" target="seemed" weight="0.7828591576140695" />
+      <edge id="548" source="two" target="home" weight="0.7825447746186017" />
+      <edge id="549" source="two" target="sure" weight="0.7825383480543409" />
+      <edge id="550" source="two" target="manner" weight="0.7809605434800525" />
+      <edge id="551" source="two" target="seen" weight="0.7803660764292693" />
+      <edge id="552" source="two" target="side" weight="0.7799688056868771" />
+      <edge id="553" source="sure" target="spoke" weight="0.8394531147503934" />
+      <edge id="554" source="sure" target="oh" weight="0.8385169627359348" />
+      <edge id="555" source="sure" target="hear" weight="0.8260941845218569" />
+      <edge id="556" source="sure" target="made" weight="0.8225526913596284" />
+      <edge id="557" source="sure" target="day" weight="0.8130272253497054" />
+      <edge id="558" source="sure" target="upon" weight="0.8064458842385261" />
+      <edge id="559" source="sure" target="like" weight="0.8035227349470786" />
+      <edge id="560" source="sure" target="left" weight="0.8031974109401943" />
+      <edge id="561" source="sure" target="home" weight="0.7988977164825217" />
+      <edge id="562" source="sure" target="heard" weight="0.796649555760918" />
+      <edge id="563" source="sure" target="manner" weight="0.7965784856508085" />
+      <edge id="564" source="sure" target="seemed" weight="0.7932856411402249" />
+      <edge id="565" source="sure" target="talked" weight="0.7906256557748156" />
+      <edge id="566" source="sure" target="visit" weight="0.789247279880729" />
+      <edge id="567" source="sure" target="large" weight="0.7883531129958674" />
+      <edge id="568" source="sure" target="sort" weight="0.784462471750018" />
+      <edge id="569" source="sure" target="us" weight="0.7839271429143206" />
+      <edge id="570" source="sure" target="whole" weight="0.7824666149347353" />
+      <edge id="571" source="sure" target="always" weight="0.780683353823151" />
+      <edge id="572" source="home" target="left" weight="0.8099649412282419" />
+      <edge id="573" source="home" target="made" weight="0.8041117144178058" />
+      <edge id="574" source="home" target="day" weight="0.8031705399574536" />
+      <edge id="575" source="home" target="word" weight="0.8024605320446445" />
+      <edge id="576" source="home" target="rather" weight="0.8008463974793427" />
+      <edge id="577" source="home" target="suppose" weight="0.7973531165367966" />
+      <edge id="578" source="home" target="indeed" weight="0.7966919650493713" />
+      <edge id="579" source="home" target="leave" weight="0.7947791728849205" />
+      <edge id="580" source="home" target="felt" weight="0.7925075417912407" />
+      <edge id="581" source="home" target="decided" weight="0.7876016643487932" />
+      <edge id="582" source="home" target="head" weight="0.7875980154817488" />
+      <edge id="583" source="home" target="end" weight="0.7866232625081429" />
+      <edge id="584" source="home" target="still" weight="0.7792071395935958" />
+      <edge id="585" source="rather" target="word" weight="0.8494378028620393" />
+      <edge id="586" source="rather" target="felt" weight="0.8315541716527992" />
+      <edge id="587" source="rather" target="long" weight="0.8300457492589471" />
+      <edge id="588" source="rather" target="oh" weight="0.8212175983937399" />
+      <edge id="589" source="rather" target="whole" weight="0.821060095436772" />
+      <edge id="590" source="rather" target="like" weight="0.7989528054400319" />
+      <edge id="591" source="rather" target="young" weight="0.7984199679095074" />
+      <edge id="592" source="rather" target="short" weight="0.798394547136906" />
+      <edge id="593" source="rather" target="day" weight="0.7983814453460335" />
+      <edge id="594" source="rather" target="upon" weight="0.79688057949344" />
+      <edge id="595" source="rather" target="made" weight="0.7960752224812788" />
+      <edge id="596" source="rather" target="always" weight="0.7949458025415542" />
+      <edge id="597" source="rather" target="side" weight="0.7945753779744908" />
+      <edge id="598" source="rather" target="way" weight="0.7932399393832757" />
+      <edge id="599" source="rather" target="seemed" weight="0.7911955072324346" />
+      <edge id="600" source="rather" target="come" weight="0.7908294710243893" />
+      <edge id="601" source="rather" target="three" weight="0.7905789595389994" />
+      <edge id="602" source="rather" target="morning" weight="0.7874086257143281" />
+      <edge id="603" source="rather" target="ever" weight="0.7836109940387479" />
+      <edge id="604" source="rather" target="received" weight="0.7820309572234623" />
+      <edge id="605" source="rather" target="even" weight="0.7801732665432934" />
+      <edge id="606" source="rather" target="room" weight="0.7789808819649474" />
+      <edge id="607" source="rather" target="enough" weight="0.778739793499353" />
+      <edge id="608" source="word" target="always" weight="0.8182624893601744" />
+      <edge id="609" source="word" target="ever" weight="0.8106294101448523" />
+      <edge id="610" source="word" target="even" weight="0.809012657851701" />
+      <edge id="611" source="word" target="suppose" weight="0.806663480009056" />
+      <edge id="612" source="word" target="hope" weight="0.8063345661336843" />
+      <edge id="613" source="word" target="indeed" weight="0.7965480516059031" />
+      <edge id="614" source="word" target="end" weight="0.7962137675368588" />
+      <edge id="615" source="word" target="hardly" weight="0.7959008630339165" />
+      <edge id="616" source="word" target="way" weight="0.7929494722909369" />
+      <edge id="617" source="word" target="come" weight="0.7870614920973824" />
+      <edge id="618" source="word" target="oh" weight="0.7869304201246712" />
+      <edge id="619" source="word" target="young" weight="0.7849175537883757" />
+      <edge id="620" source="word" target="till" weight="0.7813899901632413" />
+      <edge id="621" source="word" target="felt" weight="0.779724084223637" />
+      <edge id="622" source="manner" target="spoke" weight="0.8417913993555545" />
+      <edge id="623" source="manner" target="another" weight="0.8211361584969328" />
+      <edge id="624" source="manner" target="sort" weight="0.8207840811885581" />
+      <edge id="625" source="manner" target="moment" weight="0.7980474062673093" />
+      <edge id="626" source="manner" target="back" weight="0.7976109502252051" />
+      <edge id="627" source="manner" target="reached" weight="0.794324573786543" />
+      <edge id="628" source="manner" target="almost" weight="0.7941536009591865" />
+      <edge id="629" source="manner" target="hardly" weight="0.7907184818916877" />
+      <edge id="630" source="manner" target="seemed" weight="0.7868933801341631" />
+      <edge id="631" source="manner" target="seeing" weight="0.7861575930789418" />
+      <edge id="632" source="manner" target="either" weight="0.7859899958459071" />
+      <edge id="633" source="manner" target="way" weight="0.7845838582952176" />
+      <edge id="634" source="manner" target="suppose" weight="0.7828133972660929" />
+      <edge id="635" source="manner" target="till" weight="0.7824917820244248" />
+      <edge id="636" source="manner" target="oh" weight="0.7797619174680059" />
+      <edge id="637" source="till" target="back" weight="0.812721435213074" />
+      <edge id="638" source="till" target="moment" weight="0.8083370563800363" />
+      <edge id="639" source="till" target="enough" weight="0.8023418506783988" />
+      <edge id="640" source="till" target="almost" weight="0.8003006515113792" />
+      <edge id="641" source="till" target="always" weight="0.7972108364009718" />
+      <edge id="642" source="till" target="best" weight="0.7933536281227893" />
+      <edge id="643" source="till" target="morning" weight="0.7915939815551374" />
+      <edge id="644" source="till" target="way" weight="0.7858179745726849" />
+      <edge id="645" source="till" target="leave" weight="0.7839692114524552" />
+      <edge id="646" source="till" target="found" weight="0.7825902536943199" />
+      <edge id="647" source="till" target="seeing" weight="0.7823119559168396" />
+      <edge id="648" source="till" target="ought" weight="0.7816012624010594" />
+      <edge id="649" source="till" target="brought" weight="0.7793777789495546" />
+      <edge id="650" source="till" target="reached" weight="0.7788258626901765" />
+      <edge id="651" source="attention" target="room" weight="0.8459136897829046" />
+      <edge id="652" source="room" target="felt" weight="0.824123732909172" />
+      <edge id="653" source="room" target="hour" weight="0.8096730826077325" />
+      <edge id="654" source="room" target="us" weight="0.8026172835163388" />
+      <edge id="655" source="room" target="left" weight="0.8019725339410209" />
+      <edge id="656" source="room" target="kind" weight="0.7966189854166139" />
+      <edge id="657" source="room" target="seemed" weight="0.795951975849241" />
+      <edge id="658" source="room" target="half" weight="0.7947114274076502" />
+      <edge id="659" source="room" target="day" weight="0.7901194046213873" />
+      <edge id="660" source="room" target="last" weight="0.7843822087291645" />
+      <edge id="661" source="room" target="another" weight="0.7839564295004946" />
+      <edge id="662" source="room" target="long" weight="0.7810016495644609" />
+      <edge id="663" source="room" target="hours" weight="0.7800238003439011" />
+      <edge id="664" source="seemed" target="long" weight="0.8363593171998982" />
+      <edge id="665" source="seemed" target="near" weight="0.8303930365006124" />
+      <edge id="666" source="seemed" target="another" weight="0.8191798690910561" />
+      <edge id="667" source="seemed" target="back" weight="0.810126517834656" />
+      <edge id="668" source="seemed" target="made" weight="0.802090944422645" />
+      <edge id="669" source="seemed" target="like" weight="0.8010618275444419" />
+      <edge id="670" source="seemed" target="kind" weight="0.7967101465714672" />
+      <edge id="671" source="seemed" target="found" weight="0.7955774767487658" />
+      <edge id="672" source="seemed" target="way" weight="0.7953491452282613" />
+      <edge id="673" source="seemed" target="spoke" weight="0.7947015072918784" />
+      <edge id="674" source="seemed" target="young" weight="0.7943324719529925" />
+      <edge id="675" source="seemed" target="leave" weight="0.7923225305971289" />
+      <edge id="676" source="seemed" target="whole" weight="0.785950377450332" />
+      <edge id="677" source="seemed" target="three" weight="0.7816275521544214" />
+      <edge id="678" source="seemed" target="day" weight="0.7791472965961856" />
+      <edge id="679" source="state" target="whole" weight="0.7962347573065802" />
+      <edge id="680" source="state" target="subject" weight="0.7952078951880406" />
+      <edge id="681" source="state" target="found" weight="0.7885873080039792" />
+      <edge id="682" source="state" target="since" weight="0.7795027714324413" />
+      <edge id="683" source="indeed" target="even" weight="0.8101391921098701" />
+      <edge id="684" source="indeed" target="cannot" weight="0.805823533997159" />
+      <edge id="685" source="indeed" target="hardly" weight="0.8013324100346345" />
+      <edge id="686" source="indeed" target="knew" weight="0.801182539888731" />
+      <edge id="687" source="indeed" target="feelings" weight="0.7938805930874412" />
+      <edge id="688" source="indeed" target="since" weight="0.7913481797611763" />
+      <edge id="689" source="indeed" target="enough" weight="0.7911571996849658" />
+      <edge id="690" source="indeed" target="thing" weight="0.790907420012931" />
+      <edge id="691" source="indeed" target="perhaps" weight="0.7896729688754655" />
+      <edge id="692" source="indeed" target="felt" weight="0.7855938456450843" />
+      <edge id="693" source="indeed" target="short" weight="0.7853548913551763" />
+      <edge id="694" source="indeed" target="found" weight="0.7852189096570984" />
+      <edge id="695" source="indeed" target="ever" weight="0.7831495422519837" />
+      <edge id="696" source="indeed" target="man" weight="0.779169020709056" />
+      <edge id="697" source="young" target="made" weight="0.8124916451155204" />
+      <edge id="698" source="young" target="back" weight="0.8102703406943152" />
+      <edge id="699" source="young" target="went" weight="0.8051149614511867" />
+      <edge id="700" source="young" target="take" weight="0.798890698034414" />
+      <edge id="701" source="young" target="way" weight="0.7890946661054281" />
+      <edge id="702" source="young" target="side" weight="0.7863085480424291" />
+      <edge id="703" source="young" target="always" weight="0.7857065799705402" />
+      <edge id="704" source="young" target="three" weight="0.7808616052270998" />
+      <edge id="705" source="oh" target="upon" weight="0.8371634317716443" />
+      <edge id="706" source="oh" target="like" weight="0.8237310029215108" />
+      <edge id="707" source="oh" target="day" weight="0.8110279254016655" />
+      <edge id="708" source="oh" target="spoke" weight="0.8092428153262291" />
+      <edge id="709" source="oh" target="back" weight="0.8085602198626669" />
+      <edge id="710" source="oh" target="us" weight="0.8049856643188331" />
+      <edge id="711" source="oh" target="end" weight="0.8043524141020901" />
+      <edge id="712" source="oh" target="come" weight="0.7953539426063082" />
+      <edge id="713" source="oh" target="whole" weight="0.7894665176551785" />
+      <edge id="714" source="oh" target="sort" weight="0.7876951761084274" />
+      <edge id="715" source="oh" target="morning" weight="0.782756274482205" />
+      <edge id="716" source="spoke" target="sort" weight="0.7940944304593335" />
+      <edge id="717" source="spoke" target="spoken" weight="0.7901902658658863" />
+      <edge id="718" source="spoke" target="hear" weight="0.7867694403309831" />
+      <edge id="719" source="kind" target="felt" weight="0.7861188267923499" />
+      <edge id="720" source="kind" target="talked" weight="0.7856309791014776" />
+      <edge id="721" source="kind" target="course" weight="0.7788033989377935" />
+      <edge id="722" source="long" target="back" weight="0.8224549251624771" />
+      <edge id="723" source="long" target="almost" weight="0.8028370888222673" />
+      <edge id="724" source="long" target="day" weight="0.7976635183020613" />
+      <edge id="725" source="long" target="side" weight="0.796294367658284" />
+      <edge id="726" source="long" target="morning" weight="0.7933838725475022" />
+      <edge id="727" source="long" target="felt" weight="0.7915718061819786" />
+      <edge id="728" source="long" target="enough" weight="0.7910425348888714" />
+      <edge id="729" source="long" target="whole" weight="0.7891651923134506" />
+      <edge id="730" source="long" target="three" weight="0.7889623353136597" />
+      <edge id="731" source="long" target="people" weight="0.7857481144467375" />
+      <edge id="732" source="long" target="seeing" weight="0.784620234734696" />
+      <edge id="733" source="long" target="made" weight="0.7811136098437317" />
+      <edge id="734" source="long" target="upon" weight="0.7791994411339755" />
+      <edge id="735" source="looked" target="passed" weight="0.8374529484390644" />
+      <edge id="736" source="looked" target="wish" weight="0.7856088512813986" />
+      <edge id="737" source="passed" target="moment" weight="0.811178994998644" />
+      <edge id="738" source="passed" target="another" weight="0.8110139524942968" />
+      <edge id="739" source="passed" target="last" weight="0.7877018243611777" />
+      <edge id="740" source="upon" target="whole" weight="0.8186437149364766" />
+      <edge id="741" source="upon" target="dear" weight="0.7972960316273057" />
+      <edge id="742" source="upon" target="account" weight="0.7939947796148312" />
+      <edge id="743" source="day" target="go" weight="0.8188498403929435" />
+      <edge id="744" source="day" target="mary" weight="0.8139498314557492" />
+      <edge id="745" source="day" target="left" weight="0.8004832047333394" />
+      <edge id="746" source="day" target="musgrove" weight="0.8004509775672425" />
+      <edge id="747" source="day" target="like" weight="0.7928958404860136" />
+      <edge id="748" source="day" target="morning" weight="0.7861786690428245" />
+      <edge id="749" source="day" target="felt" weight="0.7849632846475809" />
+      <edge id="750" source="course" target="thing" weight="0.8363540606029563" />
+      <edge id="751" source="course" target="talked" weight="0.8247181671387913" />
+      <edge id="752" source="course" target="among" weight="0.7849078842363032" />
+      <edge id="753" source="thing" target="always" weight="0.8070264679349514" />
+      <edge id="754" source="thing" target="life" weight="0.7923964468354541" />
+      <edge id="755" source="thing" target="suppose" weight="0.7906016065466146" />
+      <edge id="756" source="thing" target="way" weight="0.7905974638661415" />
+      <edge id="757" source="thing" target="character" weight="0.7893960345173068" />
+      <edge id="758" source="thing" target="knew" weight="0.7884302398893324" />
+      <edge id="759" source="thing" target="spoken" weight="0.7869774683919712" />
+      <edge id="760" source="thing" target="talked" weight="0.7857565168390663" />
+      <edge id="761" source="thing" target="hardly" weight="0.7855689306889546" />
+      <edge id="762" source="thing" target="another" weight="0.7841275800955156" />
+      <edge id="763" source="morning" target="used" weight="0.7890442271620897" />
+      <edge id="764" source="morning" target="really" weight="0.7857064808421209" />
+      <edge id="765" source="morning" target="cannot" weight="0.7850544656882454" />
+      <edge id="766" source="morning" target="felt" weight="0.7804204169119618" />
+      <edge id="767" source="morning" target="everything" weight="0.7787357281878388" />
+      <edge id="768" source="enough" target="short" weight="0.8248567785170826" />
+      <edge id="769" source="enough" target="even" weight="0.8055678763188665" />
+      <edge id="770" source="enough" target="hardly" weight="0.8024574870376062" />
+      <edge id="771" source="enough" target="character" weight="0.7987138438935094" />
+      <edge id="772" source="enough" target="last" weight="0.7940569581687081" />
+      <edge id="773" source="enough" target="interest" weight="0.7927337380165038" />
+      <edge id="774" source="enough" target="side" weight="0.7879824703173443" />
+      <edge id="775" source="enough" target="seeing" weight="0.7873497847136024" />
+      <edge id="776" source="enough" target="way" weight="0.7870145676108388" />
+      <edge id="777" source="enough" target="whole" weight="0.7854969478171145" />
+      <edge id="778" source="enough" target="found" weight="0.7853066864846925" />
+      <edge id="779" source="enough" target="back" weight="0.7834992474841411" />
+      <edge id="780" source="enough" target="happy" weight="0.7832200059507088" />
+      <edge id="781" source="enough" target="felt" weight="0.7807800170888528" />
+      <edge id="782" source="enough" target="hope" weight="0.7806444807838465" />
+      <edge id="783" source="enough" target="least" weight="0.7791007529431389" />
+      <edge id="784" source="interest" target="present" weight="0.8349857458890477" />
+      <edge id="785" source="interest" target="character" weight="0.8029804297727159" />
+      <edge id="786" source="interest" target="believe" weight="0.7876760990788708" />
+      <edge id="787" source="interest" target="heard" weight="0.7865672371371658" />
+      <edge id="788" source="interest" target="whole" weight="0.7858578206213057" />
+      <edge id="789" source="present" target="talked" weight="0.7951126615428583" />
+      <edge id="790" source="present" target="elliot" weight="0.7945916775200519" />
+      <edge id="791" source="present" target="whole" weight="0.7938449358965978" />
+      <edge id="792" source="present" target="place" weight="0.7934720937253179" />
+      <edge id="793" source="present" target="received" weight="0.7850758542711724" />
+      <edge id="794" source="present" target="heard" weight="0.7806062498756534" />
+      <edge id="795" source="always" target="spirits" weight="0.8074642058579802" />
+      <edge id="796" source="always" target="deal" weight="0.8041090480962432" />
+      <edge id="797" source="always" target="since" weight="0.8001578367585338" />
+      <edge id="798" source="always" target="suppose" weight="0.7976143130543364" />
+      <edge id="799" source="always" target="made" weight="0.795855864199765" />
+      <edge id="800" source="always" target="way" weight="0.7905364179317371" />
+      <edge id="801" source="always" target="ever" weight="0.7871214289828787" />
+      <edge id="802" source="always" target="whole" weight="0.7857646527162933" />
+      <edge id="803" source="received" target="whole" weight="0.8337513665991787" />
+      <edge id="804" source="received" target="certainly" weight="0.8126600796401291" />
+      <edge id="805" source="received" target="seen" weight="0.7987098228236341" />
+      <edge id="806" source="received" target="family" weight="0.7912110148088454" />
+      <edge id="807" source="received" target="side" weight="0.7889422403908921" />
+      <edge id="808" source="whole" target="else" weight="0.8169098571651104" />
+      <edge id="809" source="whole" target="found" weight="0.8134694587197275" />
+      <edge id="810" source="whole" target="family" weight="0.8055778372326327" />
+      <edge id="811" source="whole" target="heard" weight="0.8010245632193942" />
+      <edge id="812" source="whole" target="like" weight="0.7914026995003267" />
+      <edge id="813" source="whole" target="made" weight="0.7913282520858305" />
+      <edge id="814" source="whole" target="three" weight="0.7894123526480961" />
+      <edge id="815" source="whole" target="people" weight="0.7838177466382894" />
+      <edge id="816" source="whole" target="talked" weight="0.7817161228654099" />
+      <edge id="817" source="whole" target="certainly" weight="0.7803136529141081" />
+      <edge id="818" source="whole" target="account" weight="0.77974067001277" />
+      <edge id="819" source="made" target="way" weight="0.8195178183951153" />
+      <edge id="820" source="made" target="three" weight="0.8124342189047795" />
+      <edge id="821" source="made" target="end" weight="0.7997975780736052" />
+      <edge id="822" source="made" target="best" weight="0.7936266204554393" />
+      <edge id="823" source="made" target="family" weight="0.7897780376481798" />
+      <edge id="824" source="made" target="either" weight="0.7858855975369105" />
+      <edge id="825" source="made" target="found" weight="0.783437388139169" />
+      <edge id="826" source="made" target="take" weight="0.7813088117088605" />
+      <edge id="827" source="made" target="consequence" weight="0.7805808927964332" />
+      <edge id="828" source="made" target="possible" weight="0.7800129431209839" />
+      <edge id="829" source="like" target="found" weight="0.8147702613912071" />
+      <edge id="830" source="like" target="back" weight="0.8037207976307859" />
+      <edge id="831" source="like" target="talked" weight="0.7934196036947543" />
+      <edge id="832" source="like" target="coming" weight="0.791728426176547" />
+      <edge id="833" source="like" target="us" weight="0.7898974868611464" />
+      <edge id="834" source="like" target="way" weight="0.7888077956705586" />
+      <edge id="835" source="like" target="felt" weight="0.7853464829773442" />
+      <edge id="836" source="like" target="another" weight="0.7808639332035534" />
+      <edge id="837" source="like" target="leave" weight="0.7785191704879111" />
+      <edge id="838" source="felt" target="feelings" weight="0.8206780251271042" />
+      <edge id="839" source="felt" target="half" weight="0.8154731864727676" />
+      <edge id="840" source="felt" target="us" weight="0.7982219481960238" />
+      <edge id="841" source="felt" target="serious" weight="0.7925503913506168" />
+      <edge id="842" source="felt" target="found" weight="0.7896535676638552" />
+      <edge id="843" source="felt" target="another" weight="0.7887784618905855" />
+      <edge id="844" source="felt" target="returned" weight="0.7873853240050539" />
+      <edge id="845" source="felt" target="done" weight="0.7870447166177484" />
+      <edge id="846" source="felt" target="hope" weight="0.7861424549888496" />
+      <edge id="847" source="felt" target="way" weight="0.7818541792964377" />
+      <edge id="848" source="felt" target="back" weight="0.7812755993090164" />
+      <edge id="849" source="near" target="back" weight="0.7865567400182014" />
+      <edge id="850" source="near" target="leave" weight="0.7788125115363626" />
+      <edge id="851" source="last" target="another" weight="0.8068338515433643" />
+      <edge id="852" source="last" target="look" weight="0.7870773254280696" />
+      <edge id="853" source="last" target="short" weight="0.7867061410930449" />
+      <edge id="854" source="another" target="way" weight="0.8287490197158764" />
+      <edge id="855" source="another" target="moment" weight="0.7945266709062065" />
+      <edge id="856" source="another" target="pleasure" weight="0.7907781792313455" />
+      <edge id="857" source="another" target="sort" weight="0.7892000408610749" />
+      <edge id="858" source="another" target="best" weight="0.7882324567980628" />
+      <edge id="859" source="another" target="brought" weight="0.7880832760544739" />
+      <edge id="860" source="another" target="get" weight="0.7864610277467156" />
+      <edge id="861" source="another" target="back" weight="0.7861965010966826" />
+      <edge id="862" source="another" target="hardly" weight="0.7809592554362613" />
+      <edge id="863" source="way" target="even" weight="0.8092641353048136" />
+      <edge id="864" source="way" target="found" weight="0.7944118870955018" />
+      <edge id="865" source="way" target="best" weight="0.7932672201857836" />
+      <edge id="866" source="way" target="leave" weight="0.7829337479323564" />
+      <edge id="867" source="way" target="hope" weight="0.7822819495580007" />
+      <edge id="868" source="way" target="since" weight="0.7795243009358699" />
+      <edge id="869" source="way" target="beginning" weight="0.7785789455658408" />
+      <edge id="870" source="cannot" target="used" weight="0.8275058122234334" />
+      <edge id="871" source="cannot" target="come" weight="0.8114111634998811" />
+      <edge id="872" source="hear" target="visit" weight="0.7865290222118217" />
+      <edge id="873" source="hear" target="knew" weight="0.7843152823945156" />
+      <edge id="874" source="beginning" target="since" weight="0.825509009388646" />
+      <edge id="875" source="since" target="ever" weight="0.7847198299228362" />
+      <edge id="876" source="began" target="feel" weight="0.8253948228218976" />
+      <edge id="877" source="feel" target="past" weight="0.8030454684953526" />
+      <edge id="878" source="short" target="even" weight="0.8073556499466513" />
+      <edge id="879" source="short" target="happy" weight="0.7916441417600941" />
+      <edge id="880" source="short" target="perhaps" weight="0.7841386080512561" />
+      <edge id="881" source="short" target="love" weight="0.7810195569007727" />
+      <edge id="882" source="talked" target="heard" weight="0.8026555857428213" />
+      <edge id="883" source="talked" target="spoken" weight="0.7938693179073333" />
+      <edge id="884" source="talked" target="happy" weight="0.7841794003687539" />
+      <edge id="885" source="talked" target="place" weight="0.7840325357476359" />
+      <edge id="886" source="found" target="else" weight="0.8075901976672001" />
+      <edge id="887" source="found" target="done" weight="0.7953258536292334" />
+      <edge id="888" source="found" target="seeing" weight="0.7789568594984895" />
+      <edge id="889" source="back" target="seeing" weight="0.7899437089463558" />
+      <edge id="890" source="back" target="either" weight="0.7869517781810618" />
+      <edge id="891" source="back" target="went" weight="0.7866215924329344" />
+      <edge id="892" source="back" target="us" weight="0.7801801578900692" />
+      <edge id="893" source="end" target="best" weight="0.7909310012459536" />
+      <edge id="894" source="end" target="decided" weight="0.7874665874799897" />
+      <edge id="895" source="end" target="opinion" weight="0.7851071689242703" />
+      <edge id="896" source="sort" target="seeing" weight="0.7913604790985277" />
+      <edge id="897" source="sort" target="happy" weight="0.7892177611122512" />
+      <edge id="898" source="sort" target="heart" weight="0.7824587724379071" />
+      <edge id="899" source="sort" target="bad" weight="0.781895228472545" />
+      <edge id="900" source="ever" target="take" weight="0.7803888597896055" />
+      <edge id="901" source="feelings" target="even" weight="0.7946231145185867" />
+      <edge id="902" source="feelings" target="met" weight="0.7829718170765376" />
+      <edge id="903" source="feelings" target="perhaps" weight="0.7799587414796638" />
+      <edge id="904" source="feelings" target="longer" weight="0.7786247511927438" />
+      <edge id="905" source="happy" target="almost" weight="0.793610850913886" />
+      <edge id="906" source="happy" target="place" weight="0.7855019918532858" />
+      <edge id="907" source="happy" target="person" weight="0.7847225912960543" />
+      <edge id="908" source="even" target="hope" weight="0.8195303336776101" />
+      <edge id="909" source="even" target="character" weight="0.7933976987605608" />
+      <edge id="910" source="even" target="none" weight="0.785961381334703" />
+      <edge id="911" source="hope" target="none" weight="0.7996058499288701" />
+      <edge id="912" source="hope" target="understand" weight="0.789007874502877" />
+      <edge id="913" source="almost" target="among" weight="0.8194967379392306" />
+      <edge id="914" source="almost" target="mind" weight="0.8059044930806619" />
+      <edge id="915" source="almost" target="far" weight="0.7957438482189256" />
+      <edge id="916" source="almost" target="behind" weight="0.7944923574527587" />
+      <edge id="917" source="almost" target="suppose" weight="0.7933239928898832" />
+      <edge id="918" source="almost" target="certainly" weight="0.7822002045852625" />
+      <edge id="919" source="among" target="opinion" weight="0.8040197174609657" />
+      <edge id="920" source="brother" target="wished" weight="0.8187810383285662" />
+      <edge id="921" source="done" target="take" weight="0.7838589428363955" />
+      <edge id="922" source="man" target="seen" weight="0.7891615634679652" />
+      <edge id="923" source="pleasure" target="spoken" weight="0.8174073973929576" />
+      <edge id="924" source="leave" target="people" weight="0.7824816783871476" />
+      <edge id="925" source="leave" target="still" weight="0.7790612992913315" />
+      <edge id="926" source="half" target="perhaps" weight="0.7907502879687061" />
+      <edge id="927" source="half" target="moment" weight="0.7894216711603639" />
+      <edge id="928" source="half" target="look" weight="0.779358427137955" />
+      <edge id="929" source="seeing" target="either" weight="0.8002824626563084" />
+      <edge id="930" source="suppose" target="knew" weight="0.7913209794762918" />
+      <edge id="931" source="suppose" target="hardly" weight="0.7842016068345896" />
+      <edge id="932" source="suppose" target="spirits" weight="0.7788940704431881" />
+      <edge id="933" source="mary" target="charles" weight="0.8034353654691561" />
+      <edge id="934" source="mary" target="dinner" weight="0.7928035988796922" />
+      <edge id="935" source="captain" target="wentworth" weight="0.8137949680357894" />
+      <edge id="936" source="wentworth" target="either" weight="0.7852289813557654" />
+      <edge id="937" source="certainly" target="side" weight="0.8021932626751701" />
+      <edge id="938" source="certainly" target="fine" weight="0.7881754452176508" />
+      <edge id="939" source="certainly" target="place" weight="0.7868479867218883" />
+      <edge id="940" source="certainly" target="knew" weight="0.7784887535949185" />
+      <edge id="941" source="three" target="side" weight="0.7836049602846455" />
+      <edge id="942" source="three" target="possible" weight="0.7807408850688529" />
+      <edge id="943" source="moment" target="turn" weight="0.7826128026910258" />
+      <edge id="944" source="moment" target="yes" weight="0.7825998950665705" />
+      <edge id="945" source="best" target="either" weight="0.7886907561814624" />
+      <edge id="946" source="best" target="get" weight="0.7809588856268825" />
+      <edge id="947" source="hardly" target="dear" weight="0.8020196358668055" />
+      <edge id="948" source="hardly" target="knew" weight="0.789903010282798" />
+      <edge id="949" source="hardly" target="seen" weight="0.783565716600334" />
+      <edge id="950" source="hardly" target="speak" weight="0.7800089836729268" />
+      <edge id="951" source="left" target="us" weight="0.7948503867386343" />
+      <edge id="952" source="far" target="high" weight="0.8096803422344214" />
+      <edge id="953" source="far" target="known" weight="0.7962827145005791" />
+      <edge id="954" source="far" target="family" weight="0.7915848385391726" />
+      <edge id="955" source="far" target="seen" weight="0.7913940075919836" />
+      <edge id="956" source="high" target="degree" weight="0.7883698327796096" />
+      <edge id="957" source="bath" target="cold" weight="0.808909090028226" />
+      <edge id="958" source="take" target="given" weight="0.792815822345406" />
+      <edge id="959" source="take" target="advantage" weight="0.7836491602226634" />
+      <edge id="960" source="take" target="set" weight="0.7801994075815679" />
+      <edge id="961" source="living" target="wanted" weight="0.8079259251989921" />
+      <edge id="962" source="living" target="family" weight="0.7868496521225219" />
+      <edge id="963" source="spirits" target="set" weight="0.7820211974013087" />
+      <edge id="964" source="father" target="known" weight="0.8071214491082904" />
+      <edge id="965" source="known" target="family" weight="0.7935139989354096" />
+      <edge id="966" source="emma" target="resolved" weight="0.807015539980309" />
+      <edge id="967" source="mind" target="behind" weight="0.7875622691752702" />
+      <edge id="968" source="mind" target="degree" weight="0.7789838911406528" />
+      <edge id="969" source="assure" target="deal" weight="0.8056040884846556" />
+      <edge id="970" source="assure" target="knew" weight="0.8002062610209817" />
+      <edge id="971" source="assure" target="smallest" weight="0.7806042833328657" />
+      <edge id="972" source="deal" target="took" weight="0.7913899312775211" />
+      <edge id="973" source="us" target="returned" weight="0.7929903132230196" />
+      <edge id="974" source="air" target="yes" weight="0.7812822650804477" />
+      <edge id="975" source="charles" target="musgrove" weight="0.7905879033268706" />
+      <edge id="976" source="past" target="believe" weight="0.7798458646213781" />
+      <edge id="977" source="character" target="still" weight="0.8011520254644053" />
+      <edge id="978" source="heard" target="everybody" weight="0.7828719939496858" />
+      <edge id="979" source="side" target="possible" weight="0.7898283885705347" />
+      <edge id="980" source="side" target="people" weight="0.7862311140520415" />
+      <edge id="981" source="knew" target="perhaps" weight="0.7945675761092856" />
+      <edge id="982" source="knew" target="talking" weight="0.7828835169123789" />
+      <edge id="983" source="dear" target="beyond" weight="0.7817198312770357" />
+      <edge id="984" source="still" target="people" weight="0.7907519322200289" />
+      <edge id="985" source="either" target="returned" weight="0.7983280608525904" />
+      <edge id="986" source="perhaps" target="men" weight="0.7857481076122134" />
+      <edge id="987" source="heart" target="allowed" weight="0.7879992836809109" />
+      <edge id="988" source="wish" target="sat" weight="0.7787394768006435" />
+      <edge id="989" source="fine" target="person" weight="0.7947486517275382" />
+      <edge id="990" source="yes" target="understand" weight="0.7845338104804985" />
+      <edge id="991" source="given" target="afterwards" weight="0.7827230311553498" />
+      <edge id="992" source="coming" target="came" weight="0.7894815958693795" />
+      <edge id="993" source="degree" target="set" weight="0.7835753549241569" />
+      <edge id="994" source="love" target="mean" weight="0.7828083795994252" />
+      <edge id="995" source="four" target="taking" weight="0.7858228857103342" />
+      <edge id="996" source="reason" target="use" weight="0.7853604711111897" />
+      <edge id="997" source="asked" target="particularly" weight="0.7845486772976957" />
+      <edge id="998" source="bear" target="full" weight="0.7818751726334935" />
+      <edge id="999" source="eye" target="round" weight="0.7805602455462897" />
+    </edges>
+  </graph>
+</gexf>
