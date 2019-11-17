@@ -1,0 +1,672 @@
+﻿The Project Gutenberg EBook of The Old English Baron, by Clara Reeve
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Old English Baron
+
+Author: Clara Reeve
+
+Release Date: February, 2004  [EBook #5182]
+Posting Date: April 23, 2009
+Last Updated: November 19, 2016
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE OLD ENGLISH BARON ***
+
+
+
+
+Produced by Jack Voller
+
+
+
+
+
+
+
+
+THE OLD ENGLISH BARON
+
+
+By Clara Reeve
+
+
+
+
+PREFACE
+
+
+
+As this Story is of a species which, though not new, is out of
+the common track, it has been thought necessary to point out some
+circumstances to the reader, which will elucidate the design, and, it is
+hoped, will induce him to form a favourable, as well as a right judgment
+of the work before him.
+
+This Story is the literary offspring of The Castle of Otranto, written
+upon the same plan, with a design to unite the most attractive and
+interesting circumstances of the ancient Romance and modern Novel, at
+the same time it assumes a character and manner of its own, that differs
+from both; it is distinguished by the appellation of a Gothic Story,
+being a picture of Gothic times and manners. Fictitious stories have
+been the delight of all times and all countries, by oral tradition in
+barbarous, by writing in more civilized ones; and although some persons
+of wit and learning have condemned them indiscriminately, I would
+venture to affirm, that even those who so much affect to despise them
+under one form, will receive and embrace them under another.
+
+Thus, for instance, a man shall admire and almost adore the Epic poems
+of the Ancients, and yet despise and execrate the ancient Romances,
+which are only Epics in prose.
+
+History represents human nature as it is in real life, alas, too often
+a melancholy retrospect! Romance displays only the amiable side of the
+picture; it shews the pleasing features, and throws a veil over the
+blemishes: Mankind are naturally pleased with what gratifies their
+vanity; and vanity, like all other passions of the human heart, may be
+rendered subservient to good and useful purposes.
+
+I confess that it may be abused, and become an instrument to corrupt the
+manners and morals of mankind; so may poetry, so may plays, so may
+every kind of composition; but that will prove nothing more than the
+old saying lately revived by the philosophers the most in fashion, “that
+every earthly thing has two handles.”
+
+The business of Romance is, first, to excite the attention; and
+secondly, to direct it to some useful, or at least innocent, end: Happy
+the writer who attains both these points, like Richardson! and not
+unfortunate, or undeserving praise, he who gains only the latter, and
+furnishes out an entertainment for the reader!
+
+Having, in some degree, opened my design, I beg leave to conduct my
+reader back again, till he comes within view of The Castle of Otranto;
+a work which, as already has been observed, is an attempt to unite the
+various merits and graces of the ancient Romance and modern Novel.
+To attain this end, there is required a sufficient degree of the
+marvellous, to excite the attention; enough of the manners of real life,
+to give an air of probability to the work; and enough of the pathetic,
+to engage the heart in its behalf.
+
+The book we have mentioned is excellent in the two last points, but
+has a redundancy in the first; the opening excites the attention
+very strongly; the conduct of the story is artful and judicious; the
+characters are admirably drawn and supported; the diction polished and
+elegant; yet, with all these brilliant advantages, it palls upon the
+mind (though it does not upon the ear); and the reason is obvious, the
+machinery is so violent, that it destroys the effect it is intended to
+excite. Had the story been kept within the utmost verge of probability,
+the effect had been preserved, without losing the least circumstance
+that excites or detains the attention.
+
+For instance; we can conceive, and allow of, the appearance of a ghost;
+we can even dispense with an enchanted sword and helmet; but then they
+must keep within certain limits of credibility: A sword so large as
+to require an hundred men to lift it; a helmet that by its own weight
+forces a passage through a court-yard into an arched vault, big enough
+for a man to go through; a picture that walks out of its frame; a
+skeleton ghost in a hermit’s cowl:--When your expectation is wound up
+to the highest pitch, these circumstances take it down with a witness,
+destroy the work of imagination, and, instead of attention, excite
+laughter. I was both surprised and vexed to find the enchantment
+dissolved, which I wished might continue to the end of the book; and
+several of its readers have confessed the same disappointment to me: The
+beauties are so numerous, that we cannot bear the defects, but want it
+to be perfect in all respects.
+
+In the course of my observations upon this singular book, it seemed to
+me that it was possible to compose a work upon the same plan, wherein
+these defects might be avoided; and the keeping, as in painting, might
+be preserved.
+
+But then I began to fear it might happen to me as to certain
+translators, and imitators of Shakespeare; the unities may be preserved,
+while the spirit is evaporated. However, I ventured to attempt it; I
+read the beginning to a circle of friends of approved judgment, and by
+their approbation was encouraged to proceed, and to finish it.
+
+
+
+
+
+THE OLD ENGLISH BARON: A GOTHIC STORY.
+
+
+In the minority of Henry the Sixth, King of England, when the renowned
+John, Duke of Bedford was Regent of France, and Humphrey, the good Duke
+of Gloucester, was Protector of England, a worthy knight, called
+Sir Philip Harclay, returned from his travels to England, his native
+country. He had served under the glorious King Henry the Fifth with
+distinguished valour, had acquired an honourable fame, and was no less
+esteemed for Christian virtues than for deeds of chivalry. After the
+death of his prince, he entered into the service of the Greek emperor,
+and distinguished his courage against the encroachments of the Saracens.
+In a battle there, he took prisoner a certain gentleman, by name M.
+Zadisky, of Greek extraction, but brought up by a Saracen officer; this
+man he converted to the Christian faith; after which he bound him to
+himself by the ties of friendship and gratitude, and he resolved to
+continue with his benefactor. After thirty years travel and warlike
+service, he determined to return to his native land, and to spend the
+remainder of his life in peace; and, by devoting himself to works of
+piety and charity, prepare for a better state hereafter.
+
+This noble knight had, in his early youth, contracted a strict
+friendship with the only son of the Lord Lovel, a gentleman of eminent
+virtues and accomplishments. During Sir Philip’s residence in foreign
+countries, he had frequently written to his friend, and had for a time
+received answers; the last informed him of the death of old Lord Lovel,
+and the marriage of the young one; but from that time he had heard no
+more from him. Sir Philip imputed it not to neglect or forgetfulness,
+but to the difficulties of intercourse, common at that time to all
+travellers and adventurers. When he was returning home, he resolved,
+after looking into his family affairs, to visit the Castle of Lovel, and
+enquire into the situation of his friend. He landed in Kent, attended by
+his Greek friend and two faithful servants, one of which was maimed by
+the wounds he had received in the defence of his master.
+
+Sir Philip went to his family seat in Yorkshire. He found his mother
+and sister were dead, and his estates sequestered in the hands of
+commissioners appointed by the Protector. He was obliged to prove the
+reality of his claim, and the identity of his person (by the testimony
+of some of the old servants of his family), after which every thing was
+restored to him. He took possession of his own house, established his
+household, settled the old servants in their former stations, and placed
+those he brought home in the upper offices of his family. He then left
+his friend to superintend his domestic affairs; and, attended by only
+one of his old servants, he set out for the Castle of Lovel, in the west
+of England. They travelled by easy journeys; but, towards the evening
+of the second day, the servant was so ill and fatigued he could go no
+further; he stopped at an inn where he grew worse every hour, and the
+next day expired. Sir Philip was under great concern for the loss of his
+servant, and some for himself, being alone in a strange place; however
+he took courage, ordered his servant’s funeral, attended it himself,
+and, having shed a tear of humanity over his grave, proceeded alone on
+his journey.
+
+As he drew near the estate of his friend, he began to enquire of every
+one he met, whether the Lord Lovel resided at the seat of his ancestors?
+He was answered by one, he did not know; by another, he could not tell;
+by a third, that he never heard of such a person. Sir Philip thought it
+strange that a man of Lord Lovel’s consequence should be unknown in
+his own neighbourhood, and where his ancestors had usually resided. He
+ruminated on the uncertainty of human happiness. “This world,” said
+he, “has nothing for a wise man to depend upon. I have lost all my
+relations, and most of my friends; and am even uncertain whether any
+are remaining. I will, however, be thankful for the blessings that are
+spared to me; and I will endeavour to replace those that I have lost. If
+my friend lives, he shall share my fortune with me; his children shall
+have the reversion of it; and I will share his comforts in return.
+But perhaps my friend may have met with troubles that have made him
+disgusted with the world; perhaps he has buried his amiable wife, or
+his promising children; and, tired of public life, he is retired into a
+monastery. At least, I will know what all this silence means.”
+
+When he came within a mile of the Castle of Lovel, he stopped at a
+cottage and asked for a draught of water; a peasant, master of the
+house, brought it, and asked if his honour would alight and take a
+moment’s refreshment. Sir Philip accepted his offer, being resolved to
+make farther enquiry before he approached the castle. He asked the same
+questions of him, that he had before of others.
+
+“Which Lord Lovel,” said the man, “does your honour enquire after?”
+
+“The man whom I knew was called Arthur,” said Sir Philip.
+
+“Ay,” said the Peasant, “he was the only surviving son of Richard, Lord
+Lovel, as I think?”
+
+“Very true, friend, he was so.”
+
+“Alas, sir,” said the man, “he is dead! he survived his father but a
+short time.”
+
+“Dead! say you? how long since?”
+
+“About fifteen years, to the best of my remembrance.”
+
+Sir Philip sighed deeply.
+
+“Alas!” said he, “what do we, by living long, but survive all our
+friends! But pray tell me how he died?”
+
+“I will, sir, to the best of my knowledge. An’t please your honour,
+I heard say, that he attended the King when he went against the Welch
+rebels, and he left his lady big with child; and so there was a battle
+fought, and the king got the better of the rebels. There came first a
+report that none of the officers were killed; but a few days after
+there came a messenger with an account very different, that several were
+wounded, and that the Lord Lovel was slain; which sad news overset us
+all with sorrow, for he was a noble gentleman, a bountiful master, and
+the delight of all the neighbourhood.”
+
+“He was indeed,” said Sir Philip, “all that is amiable and good; he was
+my dear and noble friend, and I am inconsolable for his loss. But the
+unfortunate lady, what became of her?”
+
+“Why, a’nt please your honour, they said she died of grief for the loss
+of her husband; but her death was kept private for a time, and we did
+not know it for certain till some weeks afterwards.”
+
+“The will of Heaven be obeyed!” said Sir Philip; “but who succeeded to
+the title and estate?”
+
+“The next heir,” said the peasant, “a kinsman of the deceased, Sir
+Walter Lovel by name.”
+
+“I have seen him,” said Sir Philip, “formerly; but where was he when
+these events happened?”
+
+“At the Castle of Lovel, sir; he came there on a visit to the lady, and
+waited there to receive my Lord, at his return from Wales; when the news
+of his death arrived, Sir Walter did every thing in his power to comfort
+her, and some said he was to marry her; but she refused to be comforted,
+and took it so to heart that she died.”
+
+“And does the present Lord Lovel reside at the castle?”
+
+“No, sir.”
+
+“Who then?”
+
+“The Lord Baron Fitz-Owen.”
+
+“And how came Sir Walter to leave the seat of his ancestors?”
+
+“Why, sir, he married his sister to this said Lord; and so he sold the
+Castle to him, and went away, and built himself a house in the north
+country, as far as Northumberland, I think they call it.”
+
+“That is very strange!” said Sir Philip.
+
+“So it is, please your honour; but this is all I know about it.”
+
+“I thank you, friend, for your intelligence; I have taken a long journey
+to no purpose, and have met with nothing but cross accidents. This life
+is, indeed, a pilgrimage! Pray direct me the nearest way to the next
+monastery.”
+
+“Noble sir,” said the peasant, “it is full five miles off, the night
+is coming on, and the ways are bad; I am but a poor man, and cannot
+entertain your honour as you are used to; but if you will enter my poor
+cottage, that, and every thing in it, are at your service.”
+
+“My honest friend, I thank you heartily,” said Sir Philip; “your
+kindness and hospitality might shame many of higher birth and breeding;
+I will accept your kind offer;--but pray let me know the name of my
+host?”
+
+“John Wyatt, sir; an honest man though a poor one, and a Christian man,
+though a sinful one.”
+
+“Whose cottage is this?”
+
+“It belongs to the Lord Fitz-Owen.”
+
+“What family have you?”
+
+“A wife, two sons and a daughter, who will all be proud to wait upon
+your honour; let me hold your honour’s stirrup whilst you alight.”
+
+He seconded these words by the proper action, and having assisted his
+guest to dismount, he conducted him into his house, called his wife to
+attend him, and then led his horse under a poor shed, that served him
+as a stable. Sir Philip was fatigued in body and mind, and was glad to
+repose himself anywhere. The courtesy of his host engaged his attention,
+and satisfied his wishes. He soon after returned, followed by a youth of
+about eighteen years.
+
+“Make haste, John,” said the father, “and be sure you say neither more
+nor less than what I have told you.”
+
+“I will, father,” said the lad; and immediately set off, ran like a buck
+across the fields, and was out of sight in an instant.
+
+“I hope, friend,” said Sir Philip, “you have not sent your son to
+provide for my entertainment; I am a soldier, used to lodge and fare
+hard; and, if it were otherwise, your courtesy and kindness would give a
+relish to the most ordinary food.”
+
+“I wish heartily,” said Wyatt, “it was in my power to entertain your
+honour as you ought to be; but, as I cannot do so, I will, when my son
+returns, acquaint you with the errand I sent him on.”
+
+After this they conversed together on common subjects, like
+fellow-creatures of the same natural form and endowments, though
+different kinds of education had given a conscious superiority to the
+one, a conscious inferiority to the other; and the due respect was paid
+by the latter, without being exacted by the former. In about half an
+hour young John returned.
+
+“Thou hast made haste,” said the father.
+
+“Not more than good speed,” quoth the son.
+
+“Tell us, then, how you speed?”
+
+“Shall I tell all that passed?” said John.
+
+“All,” said the father; “I don’t want to hide any thing.”
+
+ John stood with his cap in his hand, and thus told his tale--
+
+“I went straight to the castle as fast as I could run; it was my hap to
+light on young Master Edmund first, so I told him just as you had me,
+that a noble gentleman was come a long journey from foreign parts to see
+the Lord Lovel, his friend; and, having lived abroad many years, he did
+not know that he was dead, and that the castle was fallen into
+other hands; that upon hearing these tidings he was much grieved and
+disappointed, and wanting a night’s lodging, to rest himself before
+he returned to his own home, he was fain to take up with one at our
+cottage; that my father thought my Lord would be angry with him, if he
+were not told of the stranger’s journey and intentions, especially to
+let such a man lie at our cottage, where he could neither be lodged nor
+entertained according to his quality.”
+
+Here John stopped, and his father exclaimed--
+
+“A good lad! you did your errand very well; and tell us the answer.”
+
+John proceeded--
+
+“Master Edmund ordered me some beer, and went to acquaint my Lord of the
+message; he stayed a while, and then came back to me.--‘John,’ said he,
+‘tell the noble stranger that the Baron Fitz-Owen greets him well, and
+desires him to rest assured, that though Lord Lovel is dead, and the
+castle fallen into other hands, his friends will always find a welcome
+there; and my lord desires that he will accept of a lodging there, while
+he remains in this country.’--So I came away directly, and made haste to
+deliver my errand.”
+
+Sir Philip expressed some dissatisfaction at this mark of old Wyatt’s
+respect.
+
+“I wish,” said he, “that you had acquainted me with your intention
+before you sent to inform the Baron I was here. I choose rather to lodge
+with you; and I propose to make amends for the trouble I shall give
+you.”
+
+“Pray, sir, don’t mention it,” said the peasant, “you are as welcome as
+myself; I hope no offence; the only reason of my sending was, because I
+am both unable and unworthy to entertain your honour.”
+
+“I am sorry,” said Sir Philip, “you should think me so dainty; I am
+a Christian soldier; and him I acknowledge for my Prince and Master,
+accepted the invitations of the poor, and washed the feet of his
+disciples. Let us say no more on this head; I am resolved to stay this
+night in your cottage, tomorrow I will wait on the Baron, and thank him
+for his hospitable invitation.”
+
+“That shall be as your honour pleases, since you will condescend to stay
+here. John, do you run back and acquaint my Lord of it.”
+
+“Not so,” said Sir Philip; “it is now almost dark.”
+
+“‘Tis no matter,” said John, “I can go it blindfold.”
+
+Sir Philip then gave him a message to the Baron in his own name,
+acquainting him that he would pay his respects to him in the morning.
+John flew back the second time, and soon returned with new commendations
+from the Baron, and that he would expect him on the morrow. Sir Philip
+gave him an angel of gold, and praised his speed and abilities.
+
+He supped with Wyatt and his family upon new-laid eggs and rashers of
+bacon, with the highest relish. They praised the Creator for His gifts,
+and acknowledged they were unworthy of the least of His blessings.
+They gave the best of their two lofts up to Sir Philip, the rest of the
+family slept in the other, the old woman and her daughter in the bed,
+the father and his two sons upon clean straw. Sir Philip’s bed was of
+a better kind, and yet much inferior to his usual accommodations;
+nevertheless the good knight slept as well in Wyatt’s cottage, as he
+could have done in a palace.
+
+During his sleep, many strange and incoherent dreams arose to his
+imagination. He thought he received a message from his friend Lord
+Lovel, to come to him at the castle; that he stood at the gate and
+received him, that he strove to embrace him, but could not; but that he
+spoke to this effect:--“Though I have been dead these fifteen years,
+I still command here, and none can enter these gates without my
+permission; know that it is I that invite, and bid you welcome; the
+hopes of my house rest upon you.” Upon this he bid Sir Philip follow
+him; he led him through many rooms, till at last he sunk down, and
+Sir Philip thought he still followed him, till he came into a dark
+and frightful cave, where he disappeared, and in his stead he beheld
+a complete suit of armour stained with blood, which belonged to his
+friend, and he thought he heard dismal groans from beneath. Presently
+after, he thought he was hurried away by an invisible hand, and led into
+a wild heath, where the people were inclosing the ground, and making
+preparations for two combatants; the trumpet sounded, and a voice called
+out still louder, “Forbear! It is not permitted to be revealed till
+the time is ripe for the event; wait with patience on the decrees of
+heaven.” He was then transported to his own house, where, going into an
+unfrequented room, he was again met by his friend, who was living, and
+in all the bloom of youth, as when he first knew him: He started at the
+sight, and awoke. The sun shone upon his curtains, and, perceiving
+it was day, he sat up, and recollected where he was. The images that
+impressed his sleeping fancy remained strongly on his mind waking; but
+his reason strove to disperse them; it was natural that the story he
+had heard should create these ideas, that they should wait on him in his
+sleep, and that every dream should bear some relation to his deceased
+friend. The sun dazzled his eyes, the birds serenaded him and diverted
+his attention, and a woodbine forced its way through the window, and
+regaled his sense of smelling with its fragrance. He arose, paid his
+devotions to Heaven, and then carefully descended the narrow stairs, and
+went out at the door of the cottage. There he saw the industrious wife
+and daughter of old Wyatt at their morning work, the one milking her
+cow, the other feeding her poultry. He asked for a draught of milk,
+which, with a slice of rye bread, served to break his fast. He walked
+about the fields alone; for old Wyatt and his two sons were gone out to
+their daily labour. He was soon called back by the good woman, who told
+him that a servant from the Baron waited to conduct him to the Castle.
+He took leave of Wyatt’s wife, telling her he would see her again before
+he left the country. The daughter fetched his horse, which he mounted,
+and set forward with the servant, of whom he asked many questions
+concerning his master’s family.
+
+“How long have you lived with the Baron?”
+
+“Ten years.”
+
+“Is he a good master?”
+
+“Yes, Sir, and also a good husband and father.”
+
+“What family has he?”
+
+“Three sons and a daughter.”
+
+“What age are they of?”
+
+“The eldest son is in his seventeenth year, the second in his sixteenth,
+the others several years younger; but beside these my Lord has several
+young gentlemen brought up with his own sons, two of which are his
+nephews; he keeps in his house a learned clerk to teach them languages;
+and as for all bodily exercises, none come near them; there is a
+fletcher to teach them the use of the cross-bow; a master to teach them
+to ride; another the use of the sword; another learns them to dance; and
+then they wrestle and run, and have such activity in all their motions,
+that it does one good to see them; and my Lord thinks nothing too much
+to bestow on their education.”
+
+“Truly,” says Sir Philip, “he does the part of a good parent, and I
+honour him greatly for it; but are the young gentlemen of a promising
+disposition?”
+
+“Yes indeed, Sir,” answered the servant; “the young gentlemen, my Lord’s
+sons, are hopeful youths; but yet there is one who is thought to exceed
+them all, though he is the son of a poor labourer.”
+
+“And who is he?” said the knight.
+
+“One Edmund Twyford, the son of a cottager in our village; he is to
+be sure as fine a youth as ever the sun shone upon, and of so sweet a
+disposition that nobody envies his good fortune.”
+
+“What good fortune does he enjoy?”
+
+“Why, Sir, about two years ago, my lord, at his sons request, took
+him into his own family, and gives him the same education as his own
+children; the young lords doat upon him, especially Master William, who
+is about his own age: It is supposed that he will attend the young Lords
+when they go to the wars, which my Lord intends they shall by and by.”
+
+“What you tell me,” said Sir Philip, “increases every minute my respect
+for your Lord; he is an excellent father and master, he seeks out merit
+in obscurity; he distinguishes and rewards it,--I honour him with all my
+heart.”
+
+In this manner they conversed together till they came within view of
+the castle. In a field near the house they saw a company of youths, with
+crossbows in their hands, shooting at a mark.
+
+“There,” said the servant, “are our young gentlemen at their exercises.”
+
+Sir Philip stopped his horse to observe them; he heard two or three of
+them cry out, “Edmund is the victor! He wins the prize!”
+
+“I must,” said Sir Philip, “take a view of this Edmund.”
+
+He jumped off his horse, gave the bridle to the servant, and walked into
+the field. The young gentlemen came up, and paid their respects to him;
+he apologized for intruding upon their sports, and asked which was
+the victor? Upon which the youth he spoke to beckoned to another, who
+immediately advanced, and made his obeisance; As he drew near, Sir
+Philip fixed his eyes upon him, with so much attention, that he seemed
+not to observe his courtesy and address. At length he recollected
+himself, and said, “What is your name, young man?”
+
+“Edmund Twyford,” replied the youth; “and I have the honour to attend
+upon the Lord Fitz-Owen’s sons.”
+
+“Pray, noble sir,” said the youth who first addressed Sir Philip, “are
+not you the stranger who is expected by my father?”
+
+“I am, sir,” answered he, “and I go to pay my respects to him.”
+
+“Will you excuse our attendance, Sir? We have not yet finished our
+exercises.”
+
+“My dear youth,” said Sir Philip, “no apology is necessary; but will you
+favour me with your proper name, that I may know to whose courtesy I am
+obliged?”
+
+“My name is William Fitz-Owen; that gentleman is my eldest brother,
+Master Robert; that other my kinsman, Master Richard Wenlock.”
+
+“Very well; I thank you, gentle Sir; I beg you not to stir another step,
+your servant holds my horse.”
+
+“Farewell, Sir,” said Master William; “I hope we shall have the pleasure
+of meeting you at dinner.”
+
+The youths returned to their sports, and Sir Philip mounted his horse
+and proceeded to the castle; he entered it with a deep sigh, and
+melancholy recollections. The Baron received him with the utmost respect
+and courtesy. He gave a brief account of the principal events that had
+happened in the family of Lovel during his absence; he spoke of the late
+Lord Lovel with respect, of the present with the affection of a brother.
+Sir Philip, in return, gave a brief recital of his own adventures
+abroad, and of the disagreeable circumstances he had met with since his
+return home; he pathetically lamented the loss of all his friends, not
+forgetting that of his faithful servant on the way; saying he could be
+contented to give up the world, and retire to a religious house, but
+that he was withheld by the consideration, that some who depended
+entirely upon him, would want his presence and assistance; and, beside
+that, he thought he might be of service to many others. The Baron agreed
+with him in opinion, that a man was of much more service to the world
+who continued in it, than one who retired from it, and gave his fortune
+to the Church, whose servants did not always make the best use of it.
+Sir Philip then turned the conversation, and congratulated the Baron
+on his hopeful family; he praised their persons and address, and warmly
+applauded the care he bestowed on their education. The Baron listened
+with pleasure to the honest approbation of a worthy heart, and enjoyed
+the true happiness of a parent.
+
+Sir Philip then made further enquiry concerning Edmund, whose appearance
+had struck him with an impression in his favour.
+
+“That boy,” said the Baron, “is the son of a cottager in this
+neighbourhood; his uncommon merit, and gentleness of manners,
+distinguish him from those of his own class; from his childhood he
+attracted the notice and affection of all that knew him; he was beloved
+everywhere but at his father’s house, and there it should seem that his
+merits were his crimes; for the peasant, his father, hated him, treated
+him severely, and at length threatened to turn him out of doors; he
+used to run here and there on errands for my people, and at length they
+obliged me to take notice of him; my sons earnestly desired I would take
+him into my family; I did so about two years ago, intending to make him
+their servant; but his extraordinary genius and disposition have obliged
+me to look upon him in a superior light; perhaps I may incur the censure
+of many people, by giving him so many advantages, and treating him
+as the companion of my children; his merit must justify or condemn my
+partiality for him; however, I trust that I have secured to my children
+a faithful servant of the upper kind, and a useful friend to my family.”
+
+Sir Philip warmly applauded his generous host, and wished to be a sharer
+in his bounty to that fine youth, whose appearance indicated all the
+qualities that had endeared him to his companions.
+
+At the hour of dinner the young men presented themselves before their
+Lord, and his guest. Sir Philip addressed himself to Edmund; he asked
+him many questions, and received modest and intelligent answers, and
+he grew every minute more pleased with him. After dinner the youths
+withdrew with their tutor to pursue their studies. Sir Philip sat for
+some time wrapt up in meditation. After some minutes, the Baron
+asked him, “If he might not be favoured with the fruits of his
+contemplations?”
+
+“You shall, my Lord,” answered he, “for you have a right to them. I was
+thinking, that when many blessings are lost, we should cherish those
+that remain, and even endeavour to replace the others. My Lord, I have
+taken a strong liking to that youth whom you call Edmund Twyford; I
+have neither children nor relations to claim my fortune, nor share my
+affections; your Lordship has many demands upon your generosity: I can
+provide for this promising youth without doing injustice to any one;
+will you give him to me?”
+
+“He is a fortunate boy,” said the Baron, “to gain your favour so soon.”
+
+“My Lord,” said the knight, “I will confess to you, that the first thing
+that touched my heart in his favour, is a strong resemblance he bears to
+a certain dear friend I once had, and his manner resembles him as much
+as his person; his qualities deserve that he should be placed in a
+higher rank; I will adopt him for my son, and introduce him into the
+world as my relation, if you will resign him to me; What say you?”
+
+“Sir,” said the Baron, “you have made a noble offer, and I am too much
+the young man’s friend to be a hindrance to his preferment. It is true
+that I intended to provide for him in my own family; but I cannot do it
+so effectually as by giving him to you, whose generous affection being
+unlimited by other ties, may in time prefer him to a higher station as
+he shall deserve it. I have only one condition to make; that the lad
+shall have his option; for I would not oblige him to leave my service
+against his inclination.”
+
+“You say well,” replied Sir Philip; “nor would I take him upon other
+terms.”
+
+“Agreed then,” said the Baron; “let us send for Edmund hither.”
+
+A servant was sent to fetch him; he came immediately, and his Lord
+thus bespoke him.
+
+“Edmund, you owe eternal obligations to this gentleman, who, perceiving
+in you a certain resemblance to a friend of his, and liking your
+behaviour, has taken a great affection for you, insomuch that he desires
+to receive you into his family: I cannot better provide for you than by
+disposing of you to him; and, if you have no objection, you shall return
+home with him when he goes from hence.”
+
+The countenance of Edmund underwent many alterations during this
+proposal of his Lord; it expressed tenderness, gratitude, and sorrow,
+but the last was predominant; he bowed respectfully to the Baron and Sir
+Philip, and, after some hesitation, spoke as follows:--
+
+“I feel very strongly the obligations I owe to this gentleman, for
+his noble and generous offer; I cannot express the sense I have of his
+goodness to me, a peasant 

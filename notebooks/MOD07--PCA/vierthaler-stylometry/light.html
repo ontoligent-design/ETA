@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<style>
+
+body {
+  font: 10px sans-serif;
+  background: #fff;
+  background-color: #fff;
+}
+
+text {
+  fill: #000
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+
+.overlay {
+  pointer-events: none;
+}
+
+.hidden{
+  display:none;
+}
+
+.interact{
+  fill: #000;
+}
+
+.interacttext{
+  fill: #fff;
+}
+
+.colorselect{
+  fill: #000;
+}
+
+.colortext{
+  fill: #fff;
+}
+
+.labelselect{
+  fill: #000;
+}
+
+.labeltext{
+  fill: #fff;
+}
+
+</style>
+<script src="d3.min.js"></script>
+<script src='data.js'></script>
+<script src='lightviz.js'></script>
+</head>
+<body>
+<div class="container" id="dataviz">
+</div>
+<div class="container" id="hud">
+</div>
+</body>
