@@ -1,0 +1,31 @@
+digraph G {
+
+    node [shape=box style=filled color=white fontname=arial]
+    edge [fontname=arial fontsize=10 color=gray]
+    
+    Chunk [label=<Chunk (OHCO)>]
+    Chunk1 [label=Chunk]
+    Vocab [label=Reduce]
+    Annotate [color=palegreen]
+    
+    Acquire -> Register -> Inspect
+    Inspect -> Chunk1
+    Chunk1 -> Vectorize [label="via\nlibrary"]
+    Inspect -> Chunk [label="our path"]
+    Chunk -> Tokenize -> Vocab
+    Vocab -> Annotate
+    Annotate -> Vectorize
+    Vectorize -> Cluster -> Model
+    Model -> Visualize
+
+    F0 -> F1 -> F2 -> F3 -> F4 -> F5 -> F6 [style="invis"]
+    
+    {rank=same; F0; Acquire; Register; Inspect}
+    {rank=same; F1; Chunk1}
+    {rank=same; F2; Chunk; Tokenize; Vocab}
+    {rank=same; F3; Annotate}
+    {rank=same; F4; Vectorize; Cluster}
+    {rank=same; F5; Model}
+    {rank=same; F6; Visualize}
+
+}

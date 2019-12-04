@@ -1,0 +1,8 @@
+158|AUSTEN, JANE|EMMA|https://www.gutenberg.org/ebooks/158.txt.utf-8
+946|AUSTEN, JANE|LADY SUSAN|https://www.gutenberg.org/ebooks/946.txt.utf-8
+1212|AUSTEN, JANE|LOVE AND FREINDSHIP [SIC]|https://www.gutenberg.org/ebooks/1212.txt.utf-8
+141|AUSTEN, JANE|MANSFIELD PARK|https://www.gutenberg.org/ebooks/141.txt.utf-8
+121|AUSTEN, JANE|NORTHANGER ABBEY|https://www.gutenberg.org/ebooks/121.txt.utf-8
+105|AUSTEN, JANE|PERSUASION|https://www.gutenberg.org/ebooks/105.txt.utf-8
+1342|AUSTEN, JANE|PRIDE AND PREJUDICE|https://www.gutenberg.org/ebooks/1342.txt.utf-8s
+161|AUSTEN, JANE|SENSE AND SENSIBILITY|https://www.gutenberg.org/ebooks/161.txt.utf-8

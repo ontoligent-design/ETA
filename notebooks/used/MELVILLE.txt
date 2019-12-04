@@ -1,0 +1,16 @@
+11231|MELVILLE, HERMAN|BARTLEBY, THE SCRIVENER: A STORY OF WALL-STREET|https://www.gutenberg.org/ebooks/11231.txt.utf-8
+12384|MELVILLE, HERMAN|BATTLE-PIECES AND ASPECTS OF THE WAR|https://www.gutenberg.org/ebooks/12384.txt.utf-8
+2694|MELVILLE, HERMAN|I AND MY CHIMNEY|https://www.gutenberg.org/ebooks/2694.txt.utf-8
+15422|MELVILLE, HERMAN|ISRAEL POTTER: HIS FIFTY YEARS OF EXILE|https://www.gutenberg.org/ebooks/15422.txt.utf-8
+12841|MELVILLE, HERMAN|JOHN MARR AND OTHER POEMS|https://www.gutenberg.org/ebooks/12841.txt.utf-8
+13720|MELVILLE, HERMAN|MARDI: AND A VOYAGE THITHER, VOL. I|https://www.gutenberg.org/ebooks/13720.txt.utf-8
+13721|MELVILLE, HERMAN|MARDI: AND A VOYAGE THITHER, VOL. II|https://www.gutenberg.org/ebooks/13721.txt.utf-8
+2701|MELVILLE, HERMAN|MOBY DICK; OR, THE WHALE|https://www.gutenberg.org/ebooks/2701.txt.utf-8
+4045|MELVILLE, HERMAN|OMOO: ADVENTURES IN THE SOUTH SEAS|https://www.gutenberg.org/ebooks/4045.txt.utf-8
+34970|MELVILLE, HERMAN|PIERRE; OR THE AMBIGUITIES|https://www.gutenberg.org/ebooks/34970.txt.utf-8
+8118|MELVILLE, HERMAN|REDBURN. HIS FIRST VOYAGE BEING THE SAILOR BOY CONFESSIONS AND REMINISCENCES OF THE SON-OF-A-GENTLEMAN IN THE MERCHANT NAVY|https://www.gutenberg.org/ebooks/8118.txt.utf-8
+53861|MELVILLE, HERMAN|THE APPLE-TREE TABLE, AND OTHER SKETCHES|https://www.gutenberg.org/ebooks/53861.txt.utf-8
+21816|MELVILLE, HERMAN|THE CONFIDENCE-MAN: HIS MASQUERADE|https://www.gutenberg.org/ebooks/21816.txt.utf-8
+15859|MELVILLE, HERMAN|THE PIAZZA TALES|https://www.gutenberg.org/ebooks/15859.txt.utf-8
+1900|MELVILLE, HERMAN|TYPEE: A ROMANCE OF THE SOUTH SEAS|https://www.gutenberg.org/ebooks/1900.txt.utf-8
+10712|MELVILLE, HERMAN|WHITE JACKET; OR, THE WORLD ON A MAN-OF-WAR|https://www.gutenberg.org/ebooks/10712.txt.utf-8
